@@ -35,7 +35,7 @@ Contient la valeur spécifiée pour `Nom du site` dans [`Index`](http://votre-fo
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`5`](../src/punbb/simple_header.tpl#L5)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/invision/overall_header.tpl#L20), [`230`](../src/invision/overall_header.tpl#L230)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/invision/overall_header.tpl#L20), [`229`](../src/invision/overall_header.tpl#L229)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`5`](../src/invision/simple_header.tpl#L5)
 
 ### Version Version mobile

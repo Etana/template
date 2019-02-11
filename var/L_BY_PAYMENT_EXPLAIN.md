@@ -19,7 +19,7 @@
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`97`](../src/prosilver/buy_credits.tpl#L97)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`127`](../src/subsilver/buy_credits.tpl#L127)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`108`](../src/subsilver/buy_credits.tpl#L108)
 
 ### Version ModernBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`91`](../src/modernbb/buy_credits.tpl#L91)

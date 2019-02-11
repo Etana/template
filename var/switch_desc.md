@@ -32,5 +32,5 @@ Le contenu est affiché si la description du forum est affichée.
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`254`](../src/punbb/overall_header.tpl#L254)[`<->`](../src/punbb/overall_header.tpl#L254-L256)[`256`](../src/punbb/overall_header.tpl#L256)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`259`](../src/invision/overall_header.tpl#L259)[`<->`](../src/invision/overall_header.tpl#L259-L261)[`261`](../src/invision/overall_header.tpl#L261)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`258`](../src/invision/overall_header.tpl#L258)[`<->`](../src/invision/overall_header.tpl#L258-L260)[`260`](../src/invision/overall_header.tpl#L260)
 

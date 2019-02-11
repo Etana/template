@@ -35,5 +35,5 @@ Boucle s'affichant lors de la prévisualisation d'un thème Hitskin pour votre f
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`210`](../src/punbb/overall_header.tpl#L210)[`<->`](../src/punbb/overall_header.tpl#L210-L221)[`221`](../src/punbb/overall_header.tpl#L221)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`212`](../src/invision/overall_header.tpl#L212)[`<->`](../src/invision/overall_header.tpl#L212-L224)[`224`](../src/invision/overall_header.tpl#L224)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`211`](../src/invision/overall_header.tpl#L211)[`<->`](../src/invision/overall_header.tpl#L211-L223)[`223`](../src/invision/overall_header.tpl#L223)
 

@@ -13,7 +13,7 @@ Image pour aller en bas définie dans `PA > Affichage > Images et Couleurs | Ges
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`104`](../src/prosilver/viewcomments_body.tpl#L104), [`247`](../src/prosilver/viewcomments_body.tpl#L247), [`398`](../src/prosilver/viewcomments_body.tpl#L398)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`104`](../src/prosilver/viewcomments_body.tpl#L104), [`248`](../src/prosilver/viewcomments_body.tpl#L248), [`419`](../src/prosilver/viewcomments_body.tpl#L419)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`111`](../src/prosilver/viewtopic_body.tpl#L111), [`242`](../src/prosilver/viewtopic_body.tpl#L242)
 
 ### Version phpBB2

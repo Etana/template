@@ -17,11 +17,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`380`](../src/subsilver/viewcomments_body.tpl#L380)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`414`](../src/subsilver/viewcomments_body.tpl#L414)
 
 ### Version ModernBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`351`](../src/modernbb/viewcomments_body.tpl#L351)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`368`](../src/modernbb/viewcomments_body.tpl#L368)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`396`](../src/punbb/viewcomments_body.tpl#L396)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`416`](../src/punbb/viewcomments_body.tpl#L416)
 

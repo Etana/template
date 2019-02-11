@@ -150,7 +150,7 @@ contenu sur lequel on boucle
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`38`](../src/prosilver/modcp_split.tpl#L38)[`<->`](../src/prosilver/modcp_split.tpl#L38-L51)[`51`](../src/prosilver/modcp_split.tpl#L51)
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`5`](../src/prosilver/posting_topic_review.tpl#L5)[`<->`](../src/prosilver/posting_topic_review.tpl#L5-L29)[`29`](../src/prosilver/posting_topic_review.tpl#L29)
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`5`](../src/prosilver/privmsg_topic_review.tpl#L5)[`<->`](../src/prosilver/privmsg_topic_review.tpl#L5-L16)[`16`](../src/prosilver/privmsg_topic_review.tpl#L16)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`108`](../src/prosilver/viewcomments_body.tpl#L108)[`<->`](../src/prosilver/viewcomments_body.tpl#L108-L251)[`251`](../src/prosilver/viewcomments_body.tpl#L251)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`108`](../src/prosilver/viewcomments_body.tpl#L108)[`<->`](../src/prosilver/viewcomments_body.tpl#L108-L252)[`252`](../src/prosilver/viewcomments_body.tpl#L252)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`116`](../src/prosilver/viewtopic_body.tpl#L116)[`<->`](../src/prosilver/viewtopic_body.tpl#L116-L249)[`249`](../src/prosilver/viewtopic_body.tpl#L249)
 
 ### Version phpBB2

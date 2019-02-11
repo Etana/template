@@ -30,5 +30,5 @@ Affiche les widgets de la colonne de gauche un par un.
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`308`](../src/punbb/overall_header.tpl#L308)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`327`](../src/invision/overall_header.tpl#L327)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`326`](../src/invision/overall_header.tpl#L326)
 

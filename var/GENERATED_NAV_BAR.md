@@ -33,5 +33,5 @@ Affiche la barre de navigation choisie dans PA > Affichage > Page d'accueil | En
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`261`](../src/punbb/overall_header.tpl#L261)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`266`](../src/invision/overall_header.tpl#L266)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`265`](../src/invision/overall_header.tpl#L265)
 

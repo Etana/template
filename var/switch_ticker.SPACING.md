@@ -30,5 +30,5 @@ Contient l'espace entre chaque annonce défini dans `PA > Général > Messages e
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`141`](../src/punbb/overall_header.tpl#L141), [`178`](../src/punbb/overall_header.tpl#L178), [`182`](../src/punbb/overall_header.tpl#L182)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`56`](../src/invision/overall_header.tpl#L56), [`181`](../src/invision/overall_header.tpl#L181), [`185`](../src/invision/overall_header.tpl#L185)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`55`](../src/invision/overall_header.tpl#L55), [`180`](../src/invision/overall_header.tpl#L180), [`184`](../src/invision/overall_header.tpl#L184)
 

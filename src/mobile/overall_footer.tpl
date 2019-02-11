@@ -2,22 +2,22 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <body>
-    <div>
-        <main>
-<!-- END html_validation -->
+<div>
+    <main>
+        <!-- END html_validation -->
         {PROTECT_FOOTER}
         <a id="to-top" href="#wrap"><i class="material-icons">&#xE316;</i></a>
         <div class="application_footer_spacer"></div>
-        </main>
-    </div>
+    </main>
+</div>
 <script type="text/javascript">
-//<![CDATA[
+    //<![CDATA[
     fa_endpage();
-//]]>
+    //]]>
 </script>
 <script src="{JQUERY_DIR}touch-swipe/v1.6.18/jquery.touchSwipe.min.js" type="text/javascript"></script>
 <script type="text/javascript">
-//<![CDATA[
+    //<![CDATA[
     $(document).ready(function() {
         $(".forum-section").each(function() {
             var forumName = $(this).find("h3");
@@ -150,7 +150,8 @@
     function floatingButtonPosition() {
         if ($("#at-share-dock").length) {
             $(".btn-floating, #to-top").css("marginBottom", "50px");
-        }; 
+            $("#mwrap").css("paddingBottom", "115px");
+        };
     };
 
     function alterMenuIcons() {
@@ -184,7 +185,7 @@
             }
         });
     };
-  
+
     $('#to-top').click(function(e) {
         e.preventDefault();
         $('html, body').animate({
@@ -200,7 +201,7 @@
             $('#to-top').removeClass('visible');
         }
     });
- 
+
     $(window).load(function(){
         var avatar_style;
 
@@ -209,11 +210,36 @@
             $(this).attr('style', avatar_style);
         })
     })
-//]]>
+    //]]>
 </script>
 <script type="text/javascript">
-//<![CDATA[
+    //<![CDATA[
     $(document).ready(function() {
+        $('#header').prepend('<a id="mSearchBtn" href="./search"><i class="material-icons">search</i></a>');
+
+        $('#header').prepend('<form method="get" action="/search" id="search-main"><div><input autocorrect="off" autocapitalize="none" autocomplete="off" type="search" name="search_keywords" maxlength="128" placeholder="{L_SEARCH}"></div><button type="submit"><i class="material-icons">search</i></button></form>');
+
+        $('#mSearchBtn').on('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            var search_box = $('#search-main'),
+                search_box_input = $('#search-main input');
+
+            search_box.addClass('visible');
+            search_box_input.focus();
+
+            $(document).on('click.search_main', function(e) {
+                var search_box = $('#search-main');
+
+                if (!search_box.is(e.target) && search_box.has(e.target).length === 0)
+                {
+                    search_box.removeClass('visible');
+                    search_box.off('.search_main');
+                }
+            });
+        });
+
         if(_userdata['activate_toolbar'] && _userdata['session_logged_in']) {
             Toolbar.init;
             var timeout = setInterval(reloadNotif, 1000);
@@ -237,68 +263,68 @@
             }
         };
     });
-//]]>
+    //]]>
 </script>
-    <!-- BEGIN switch_facebook_login -->
-    <div id="fb-root"></div>
-    <script type="text/javascript">
-        $(document).ready( function() {
-            $('div.fb-login-button, span.fb-login-button').attr({
-                "data-scope": "{switch_facebook_login.FB_SCOPE}",
-                "data-max-rows": "{switch_facebook_login.FB_MAX_ROWS}",
-                "data-size": "{switch_facebook_login.FB_BUTTON_SIZE}",
-                "data-show-faces": "{switch_facebook_login.FB_SHOW_FACES}",
-                "data-auto-logout-link": "{switch_facebook_login.FB_AUTO_LOGOUT}"
-            });
-            $('div.fb-login-button, span.fb-login-button').each(function() {
-                if(typeof $(this).attr('onlogin') == typeof undefined || $(this).attr('onlogin') === false) {
-                    $(this).attr('onlogin', '{switch_facebook_login.FB_ONLOGIN}');
-                }
-                if($(this).html() == '') {
-                    $(this).html('{switch_facebook_login.FB_LABEL}');
-                }
-            });
-
-            FB.init({
-                appId   : "{switch_facebook_login.FB_APP_ID}",
-                cookie  : {switch_facebook_login.FB_COOKIE},
-                xfbml   : {switch_facebook_login.FB_XFBML},
-                oauth   : {switch_facebook_login.FB_OAUTH},
-                version : '{switch_facebook_login.FB_VERSION}'
-            });
-
-            (function(d, s, id){
-                var js, fjs = d.getElementsByTagName(s)[0];
-                if (d.getElementById(id)) {return;}
-                    js = d.createElement(s); js.id = id;
-                js.src = "//connect.facebook.net/{switch_facebook_login.FB_LOCAL}/sdk.js";
-                fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));
+<!-- BEGIN switch_facebook_login -->
+<div id="fb-root"></div>
+<script type="text/javascript">
+    $(document).ready( function() {
+        $('div.fb-login-button, span.fb-login-button').attr({
+            "data-scope": "{switch_facebook_login.FB_SCOPE}",
+            "data-max-rows": "{switch_facebook_login.FB_MAX_ROWS}",
+            "data-size": "{switch_facebook_login.FB_BUTTON_SIZE}",
+            "data-show-faces": "{switch_facebook_login.FB_SHOW_FACES}",
+            "data-auto-logout-link": "{switch_facebook_login.FB_AUTO_LOGOUT}"
         });
-        function onLoginFB() {
-            window.location.replace('{switch_facebook_login.FB_ONLOGIN_URL}')
-        }
-    </script>
-    <!-- END switch_facebook_login -->
-    <!-- BEGIN switch_topicit_connect -->
-    <script type="text/javascript">
-        $(document).ready( function() {
-            $('div.ti-connect').attr({
-                'data-loc' : '{switch_topicit_connect.TOPICIT_URL}',
-                'data-login' : '{switch_topicit_connect.BOARD_LOGIN}',
-                'data-version' : '{switch_topicit_connect.TOPICIT_VERSION}',
-                'data-lang' : '{switch_topicit_connect.BOARD_LANG}'
+        $('div.fb-login-button, span.fb-login-button').each(function() {
+            if(typeof $(this).attr('onlogin') == typeof undefined || $(this).attr('onlogin') === false) {
+                $(this).attr('onlogin', '{switch_facebook_login.FB_ONLOGIN}');
+            }
+            if($(this).html() == '') {
+                $(this).html('{switch_facebook_login.FB_LABEL}');
+            }
+        });
 
-            });
-            (function(d, s, id) {
-                var js, fjs = d.getElementsByTagName(s)[0];
-                if (d.getElementById(id)) return;
+        FB.init({
+            appId   : "{switch_facebook_login.FB_APP_ID}",
+            cookie  : {switch_facebook_login.FB_COOKIE},
+            xfbml   : {switch_facebook_login.FB_XFBML},
+            oauth   : {switch_facebook_login.FB_OAUTH},
+            version : '{switch_facebook_login.FB_VERSION}'
+        });
+
+        (function(d, s, id){
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {return;}
                 js = d.createElement(s); js.id = id;
-                js.src = "{switch_topicit_connect.TOPICIT_ENDPOINT}";
-                fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'topicit-connect'));
+            js.src = "//connect.facebook.net/{switch_facebook_login.FB_LOCAL}/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    });
+    function onLoginFB() {
+        window.location.replace('{switch_facebook_login.FB_ONLOGIN_URL}')
+    }
+</script>
+<!-- END switch_facebook_login -->
+<!-- BEGIN switch_topicit_connect -->
+<script type="text/javascript">
+    $(document).ready( function() {
+        $('div.ti-connect').attr({
+            'data-loc' : '{switch_topicit_connect.TOPICIT_URL}',
+            'data-login' : '{switch_topicit_connect.BOARD_LOGIN}',
+            'data-version' : '{switch_topicit_connect.TOPICIT_VERSION}',
+            'data-lang' : '{switch_topicit_connect.BOARD_LANG}'
+
         });
-    </script>
-    <!-- END switch_topicit_connect -->
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "{switch_topicit_connect.TOPICIT_ENDPOINT}";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'topicit-connect'));
+    });
+</script>
+<!-- END switch_topicit_connect -->
 </body>
 </html>

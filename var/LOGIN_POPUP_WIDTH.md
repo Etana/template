@@ -25,5 +25,5 @@ Largeur du popup de connexion définie dans `PA > Général > Forum | Configurat
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`151`](../src/punbb/overall_header.tpl#L151)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`66`](../src/invision/overall_header.tpl#L66)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`65`](../src/invision/overall_header.tpl#L65)
 

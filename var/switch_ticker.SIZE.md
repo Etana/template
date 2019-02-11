@@ -27,5 +27,5 @@ Variable non utilisée.
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`75`](../src/punbb/overall_header.tpl#L75), [`111`](../src/punbb/overall_header.tpl#L111)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`126`](../src/invision/overall_header.tpl#L126), [`160`](../src/invision/overall_header.tpl#L160)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`125`](../src/invision/overall_header.tpl#L125), [`159`](../src/invision/overall_header.tpl#L159)
 

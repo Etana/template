@@ -25,7 +25,7 @@ Titre du message.
 * __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`11`](../src/prosilver/modcp_move.tpl#L11)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`193`](../src/subsilver/buy_credits.tpl#L193)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`174`](../src/subsilver/buy_credits.tpl#L174)
 * __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`8`](../src/subsilver/confirm_body.tpl#L8)
 * __[`message_body`](../tpl/message_body.md#readme)__ __:__ lignes [`8`](../src/subsilver/message_body.tpl#L8)
 * __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`9`](../src/subsilver/modcp_move.tpl#L9)

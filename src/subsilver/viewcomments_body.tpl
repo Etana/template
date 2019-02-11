@@ -304,7 +304,41 @@ showHiddenMessage = function(id)
 	</tr>
 </table>
 <!-- END promot_trafic -->
-
+<!-- BEGIN switch_forum_rules -->
+<table id="forum_rules" class="forumline" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 1px 0px 1px 0px">
+	<tbody>
+	<tr>
+		<td class="catBottom">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tbody>
+				<tr>
+					<td valign="top">
+						<h1 class="cattitle">&nbsp;{L_FORUM_RULES}</h1>
+					</td>
+				</tr>
+				</tbody>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td class="row1 clearfix">
+			<table>
+				<tr>
+					<!-- BEGIN switch_forum_rule_image -->
+					<td class="logo">
+						<img src="{RULE_IMG_URL}" />
+					</td>
+					<!-- END switch_forum_rule_image -->
+					<td class="rules postbody">
+						{RULE_MSG}
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	</tbody>
+</table>
+<!-- END switch_forum_rules -->
 <div id="bookmarks" class="gensmall" style="margin-top:2px">
 	{L_BOOKMARKS}&nbsp;
 	<!-- BEGIN social_bookmarking -->

@@ -17,5 +17,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`358`](../src/subsilver/viewcomments_body.tpl#L358)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`392`](../src/subsilver/viewcomments_body.tpl#L392)
 

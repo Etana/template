@@ -28,7 +28,7 @@ Variable liée à des statistiques internes.
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`200`](../src/punbb/overall_header.tpl#L200)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`203`](../src/invision/overall_header.tpl#L203)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`202`](../src/invision/overall_header.tpl#L202)
 
 ### Version Version mobile
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`37`](../src/mobile/overall_header.tpl#L37)

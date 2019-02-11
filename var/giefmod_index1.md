@@ -37,5 +37,5 @@ Boucle d'affichage de vos widgets de la colonne de gauche si ceux-ci sont activ√
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`307`](../src/punbb/overall_header.tpl#L307)[`<->`](../src/punbb/overall_header.tpl#L307-L312)[`312`](../src/punbb/overall_header.tpl#L312)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`326`](../src/invision/overall_header.tpl#L326)[`<->`](../src/invision/overall_header.tpl#L326-L331)[`331`](../src/invision/overall_header.tpl#L331)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`325`](../src/invision/overall_header.tpl#L325)[`<->`](../src/invision/overall_header.tpl#L325-L330)[`330`](../src/invision/overall_header.tpl#L330)
 

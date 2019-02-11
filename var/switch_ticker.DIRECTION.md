@@ -30,5 +30,5 @@ Contient la direction du défilement des annonces définie dans `PA > Général 
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`45`](../src/punbb/overall_header.tpl#L45), [`143`](../src/punbb/overall_header.tpl#L143)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`58`](../src/invision/overall_header.tpl#L58), [`92`](../src/invision/overall_header.tpl#L92)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`57`](../src/invision/overall_header.tpl#L57), [`91`](../src/invision/overall_header.tpl#L91)
 

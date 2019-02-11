@@ -32,5 +32,5 @@ Contenu de l'annonce défilante sur laquelle on boucle défini dans `PA > Géné
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`273`](../src/punbb/overall_header.tpl#L273), [`290`](../src/punbb/overall_header.tpl#L290)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`292`](../src/invision/overall_header.tpl#L292), [`309`](../src/invision/overall_header.tpl#L309)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`291`](../src/invision/overall_header.tpl#L291), [`308`](../src/invision/overall_header.tpl#L308)
 

@@ -21,7 +21,7 @@ Action du formulaire de donation.
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`82`](../src/prosilver/buy_credits.tpl#L82), [`99`](../src/prosilver/buy_credits.tpl#L99), [`125`](../src/prosilver/buy_credits.tpl#L125), [`142`](../src/prosilver/buy_credits.tpl#L142), [`152`](../src/prosilver/buy_credits.tpl#L152), [`182`](../src/prosilver/buy_credits.tpl#L182)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`105`](../src/subsilver/buy_credits.tpl#L105), [`125`](../src/subsilver/buy_credits.tpl#L125), [`146`](../src/subsilver/buy_credits.tpl#L146), [`161`](../src/subsilver/buy_credits.tpl#L161), [`175`](../src/subsilver/buy_credits.tpl#L175), [`217`](../src/subsilver/buy_credits.tpl#L217)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`86`](../src/subsilver/buy_credits.tpl#L86), [`106`](../src/subsilver/buy_credits.tpl#L106), [`127`](../src/subsilver/buy_credits.tpl#L127), [`142`](../src/subsilver/buy_credits.tpl#L142), [`156`](../src/subsilver/buy_credits.tpl#L156), [`198`](../src/subsilver/buy_credits.tpl#L198)
 
 ### Version ModernBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`76`](../src/modernbb/buy_credits.tpl#L76), [`93`](../src/modernbb/buy_credits.tpl#L93), [`119`](../src/modernbb/buy_credits.tpl#L119), [`136`](../src/modernbb/buy_credits.tpl#L136), [`146`](../src/modernbb/buy_credits.tpl#L146), [`176`](../src/modernbb/buy_credits.tpl#L176)

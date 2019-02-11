@@ -19,8 +19,8 @@
 
             <!-- BEGIN listrow -->
             <div class="notification-row {listrow.ROW_CLASS}">
-                <div class="notification-check">
-                    <i class="material-icons">mail</i>
+                <div class="notification-check" style="background-image: url({listrow.PRIVMSG_FOLDER_IMG}); background-position: center; background-repeat: no-repeat;">
+                    <div class="notification-check-icon"></div>
                     <div class="checkbox-row">
                         <input type="checkbox" name="mark[]2" value="{listrow.S_MARK_ID}" />
                         <div class="checkbox-row-check"></div>

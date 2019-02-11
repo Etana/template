@@ -298,6 +298,27 @@
     </div>
     <!-- END hidden -->
     <!-- END postrow -->
+    <!-- BEGIN switch_forum_rules -->
+    <div class="block" id="forum_rules">
+        <div class="block-header">
+            {L_FORUM_RULES}
+        </div>
+        <div class="block-content">
+            <table class="postbody">
+                <tr>
+                    <!-- BEGIN switch_forum_rule_image -->
+                    <td class="logo">
+                        <img src="{RULE_IMG_URL}" alt="" />
+                    </td>
+                    <!-- END switch_forum_rule_image -->
+                    <td class="rules content">
+                        {RULE_MSG}
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <!-- END switch_forum_rules -->
 
     <div class="topic-actions bottom">
         <div class="topic-actions-buttons">

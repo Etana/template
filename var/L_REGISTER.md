@@ -28,5 +28,5 @@ Chaîne de caractère.
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`233`](../src/punbb/overall_header.tpl#L233)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`236`](../src/invision/overall_header.tpl#L236)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`235`](../src/invision/overall_header.tpl#L235)
 

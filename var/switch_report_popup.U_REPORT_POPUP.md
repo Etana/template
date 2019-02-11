@@ -27,5 +27,5 @@ Adresse URL du popup d'avertissement d'un nouveau rapport : `/report?mode=popup`
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`134`](../src/punbb/overall_header.tpl#L134)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`49`](../src/invision/overall_header.tpl#L49)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`48`](../src/invision/overall_header.tpl#L48)
 

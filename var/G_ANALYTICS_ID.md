@@ -29,7 +29,7 @@ Affiche la valeur indiquée dans `PA > Général > Statistiques | Google Analyti
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`195`](../src/punbb/overall_header.tpl#L195)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`198`](../src/invision/overall_header.tpl#L198)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`197`](../src/invision/overall_header.tpl#L197)
 
 ### Version Version mobile
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`32`](../src/mobile/overall_header.tpl#L32)

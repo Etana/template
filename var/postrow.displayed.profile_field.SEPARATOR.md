@@ -19,7 +19,7 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`234`](../src/prosilver/viewcomments_body.tpl#L234)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`235`](../src/prosilver/viewcomments_body.tpl#L235)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`229`](../src/prosilver/viewtopic_body.tpl#L229)
 
 ### Version phpBB2

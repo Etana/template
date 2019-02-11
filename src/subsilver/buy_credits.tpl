@@ -68,25 +68,6 @@
 		</td>
 	</tr>
 	<tr>
-		<td width="50%" align="left" class="row1">
-			<span class="gen">
-				<br />
-				{L_BY_PHONECALL_EXPLAIN}
-				<br /><br /><br />
-				<table border="0" align="center">
-					<tr>
-						<td align="center">
-							<span class="gen">
-								<p>{ALLOPASS_FLAGS}</p>
-							</span>
-						</td>
-					</tr>
-				</table>
-				<br /><br />
-				{L_BY_PHONECALL_EXPLAIN_2}
-				<br /><br />
-			</span>
-		</td>
 		<td width="50%" align="center" class="row2">
 			<form action="{POST_URL}" method="post" name="APform" target="_blank">
 				<span class="gen">

@@ -42,7 +42,7 @@ URL du dossier dans lesquel se trouvent les fichiers script et css relatifs à j
 
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`128`](../src/invision/groupcp_info_body.tpl#L128)
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`25`](../src/invision/overall_header.tpl#L25), [`26`](../src/invision/overall_header.tpl#L26), [`37`](../src/invision/overall_header.tpl#L37), [`38`](../src/invision/overall_header.tpl#L38), [`89`](../src/invision/overall_header.tpl#L89)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`25`](../src/invision/overall_header.tpl#L25), [`26`](../src/invision/overall_header.tpl#L26), [`37`](../src/invision/overall_header.tpl#L37), [`38`](../src/invision/overall_header.tpl#L38), [`88`](../src/invision/overall_header.tpl#L88)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`372`](../src/invision/posting_body.tpl#L372)
 
 ### Version Version mobile

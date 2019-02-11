@@ -19,7 +19,7 @@
 
 ### Version phpBB2
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`60`](../src/subsilver/mod_news.tpl#L60)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`344`](../src/subsilver/viewcomments_body.tpl#L344)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`378`](../src/subsilver/viewcomments_body.tpl#L378)
 
 ### Version PunBB
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`51`](../src/punbb/mod_news.tpl#L51)

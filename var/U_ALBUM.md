@@ -31,7 +31,7 @@
 * __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`7`](../src/prosilver/album_search_body.tpl#L7)
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`216`](../src/prosilver/album_showpage_body.tpl#L216)
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`200`](../src/prosilver/album_upload_body.tpl#L200)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`56`](../src/prosilver/viewcomments_body.tpl#L56), [`455`](../src/prosilver/viewcomments_body.tpl#L455)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`56`](../src/prosilver/viewcomments_body.tpl#L56), [`477`](../src/prosilver/viewcomments_body.tpl#L477)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`60`](../src/prosilver/viewtopic_body.tpl#L60), [`335`](../src/prosilver/viewtopic_body.tpl#L335)
 
 ### Version phpBB2
@@ -43,7 +43,7 @@
 * __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`14`](../src/subsilver/album_search_body.tpl#L14)
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`220`](../src/subsilver/album_showpage_body.tpl#L220)
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`199`](../src/subsilver/album_upload_body.tpl#L199)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`56`](../src/subsilver/viewcomments_body.tpl#L56), [`532`](../src/subsilver/viewcomments_body.tpl#L532), [`552`](../src/subsilver/viewcomments_body.tpl#L552)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`56`](../src/subsilver/viewcomments_body.tpl#L56), [`566`](../src/subsilver/viewcomments_body.tpl#L566), [`586`](../src/subsilver/viewcomments_body.tpl#L586)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`56`](../src/subsilver/viewtopic_body.tpl#L56), [`404`](../src/subsilver/viewtopic_body.tpl#L404), [`424`](../src/subsilver/viewtopic_body.tpl#L424)
 
 ### Version ModernBB

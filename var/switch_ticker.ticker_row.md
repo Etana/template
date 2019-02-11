@@ -36,5 +36,5 @@ Boucle sur chacune des annonces défilantes que vous avez définies dans `PA > G
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`289`](../src/punbb/overall_header.tpl#L289)[`<->`](../src/punbb/overall_header.tpl#L289-L291)[`291`](../src/punbb/overall_header.tpl#L291)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`308`](../src/invision/overall_header.tpl#L308)[`<->`](../src/invision/overall_header.tpl#L308-L310)[`310`](../src/invision/overall_header.tpl#L310)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`307`](../src/invision/overall_header.tpl#L307)[`<->`](../src/invision/overall_header.tpl#L307-L309)[`309`](../src/invision/overall_header.tpl#L309)
 

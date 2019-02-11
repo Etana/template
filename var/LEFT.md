@@ -20,7 +20,7 @@
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`11`](../src/prosilver/mod_news.tpl#L11)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`216`](../src/subsilver/buy_credits.tpl#L216)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`197`](../src/subsilver/buy_credits.tpl#L197)
 
 ### Version ModernBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`168`](../src/modernbb/buy_credits.tpl#L168), [`176`](../src/modernbb/buy_credits.tpl#L176), [`177`](../src/modernbb/buy_credits.tpl#L177)

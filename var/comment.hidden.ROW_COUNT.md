@@ -17,11 +17,11 @@
 ## Utilisations dans les templates
 
 ### Version AwesomeBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`229`](../src/awesomebb/viewcomments_body.tpl#L229)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`249`](../src/awesomebb/viewcomments_body.tpl#L249)
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`289`](../src/prosilver/viewcomments_body.tpl#L289)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`310`](../src/prosilver/viewcomments_body.tpl#L310)
 
 ### Version ModernBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`302`](../src/modernbb/viewcomments_body.tpl#L302)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`319`](../src/modernbb/viewcomments_body.tpl#L319)
 

@@ -33,7 +33,7 @@ Adresse url absolue vers l'index du forum.
 * __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`4`](../src/awesomebb/report_view_body.tpl#L4)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`5`](../src/awesomebb/search_results_topics.tpl#L5)
 * __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`43`](../src/awesomebb/viewcomments_body.tpl#L43)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`10`](../src/awesomebb/viewforum_body.tpl#L10)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`40`](../src/awesomebb/viewforum_body.tpl#L40)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`57`](../src/awesomebb/viewtopic_body.tpl#L57)
 
 ### Version phpBB3
@@ -46,7 +46,7 @@ Adresse url absolue vers l'index du forum.
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`8`](../src/prosilver/report_list_body.tpl#L8)
 * __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`6`](../src/prosilver/report_view_body.tpl#L6)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`4`](../src/prosilver/search_results_topics.tpl#L4)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`56`](../src/prosilver/viewcomments_body.tpl#L56), [`455`](../src/prosilver/viewcomments_body.tpl#L455)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`56`](../src/prosilver/viewcomments_body.tpl#L56), [`477`](../src/prosilver/viewcomments_body.tpl#L477)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`41`](../src/prosilver/viewforum_body.tpl#L41)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`59`](../src/prosilver/viewtopic_body.tpl#L59), [`335`](../src/prosilver/viewtopic_body.tpl#L335)
 
@@ -74,7 +74,7 @@ Adresse url absolue vers l'index du forum.
 * __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`1`](../src/subsilver/report_view_body.tpl#L1)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`5`](../src/subsilver/search_results_posts.tpl#L5)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`10`](../src/subsilver/search_results_topics.tpl#L10)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`55`](../src/subsilver/viewcomments_body.tpl#L55), [`532`](../src/subsilver/viewcomments_body.tpl#L532), [`552`](../src/subsilver/viewcomments_body.tpl#L552)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`55`](../src/subsilver/viewcomments_body.tpl#L55), [`566`](../src/subsilver/viewcomments_body.tpl#L566), [`586`](../src/subsilver/viewcomments_body.tpl#L586)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`11`](../src/subsilver/viewforum_body.tpl#L11), [`52`](../src/subsilver/viewforum_body.tpl#L52), [`73`](../src/subsilver/viewforum_body.tpl#L73)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`13`](../src/subsilver/viewonline_body.tpl#L13)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`55`](../src/subsilver/viewtopic_body.tpl#L55), [`404`](../src/subsilver/viewtopic_body.tpl#L404), [`424`](../src/subsilver/viewtopic_body.tpl#L424)
@@ -124,7 +124,7 @@ Adresse url absolue vers l'index du forum.
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`19`](../src/punbb/search_body.tpl#L19)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`19`](../src/punbb/search_results_posts.tpl#L19)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`18`](../src/punbb/search_results_topics.tpl#L18)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`73`](../src/punbb/viewcomments_body.tpl#L73), [`453`](../src/punbb/viewcomments_body.tpl#L453)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`73`](../src/punbb/viewcomments_body.tpl#L73), [`474`](../src/punbb/viewcomments_body.tpl#L474)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`50`](../src/punbb/viewforum_body.tpl#L50)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`74`](../src/punbb/viewtopic_body.tpl#L74), [`303`](../src/punbb/viewtopic_body.tpl#L303)
 
@@ -153,7 +153,7 @@ Adresse url absolue vers l'index du forum.
 * __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`2`](../src/invision/modcp_move.tpl#L2)
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`2`](../src/invision/modcp_split.tpl#L2)
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`2`](../src/invision/modcp_viewip.tpl#L2)
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`255`](../src/invision/overall_header.tpl#L255)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`254`](../src/invision/overall_header.tpl#L254)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`3`](../src/invision/posting_body.tpl#L3)
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`2`](../src/invision/privmsgs_body.tpl#L2)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`2`](../src/invision/privmsgs_read_body.tpl#L2)

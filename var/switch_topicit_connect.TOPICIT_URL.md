@@ -33,5 +33,5 @@
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`89`](../src/invision/overall_footer_end.tpl#L89)
 
 ### Version Version mobile
-* __[`overall_footer`](../tpl/overall_footer.md#readme)__ __:__ lignes [`287`](../src/mobile/overall_footer.tpl#L287)
+* __[`overall_footer`](../tpl/overall_footer.md#readme)__ __:__ lignes [`313`](../src/mobile/overall_footer.tpl#L313)
 

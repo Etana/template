@@ -9,7 +9,7 @@
 <form action="{S_POST_ACTION}" method="post" name="post" enctype="multipart/form-data">
     <h1 class="page-title">{L_POST_A}</h1>
     {POST_PREVIEW_BOX}
-	
+
     <!-- BEGIN switch_forum_rules -->
     <div class="post row1" id="forum_rules">
         <span class="corners-top"><span></span></span>

@@ -30,5 +30,5 @@ Contient la vitesse de défilement des annonces définie dans `PA > Général > 
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`113`](../src/punbb/overall_header.tpl#L113), [`142`](../src/punbb/overall_header.tpl#L142)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`57`](../src/invision/overall_header.tpl#L57), [`162`](../src/invision/overall_header.tpl#L162)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`56`](../src/invision/overall_header.tpl#L56), [`161`](../src/invision/overall_header.tpl#L161)
 

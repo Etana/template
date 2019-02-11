@@ -27,7 +27,7 @@ contenu sur lequel on boucle
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`168`](../src/prosilver/buy_credits.tpl#L168)[`<->`](../src/prosilver/buy_credits.tpl#L168-L190)[`190`](../src/prosilver/buy_credits.tpl#L190)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`190`](../src/subsilver/buy_credits.tpl#L190)[`<->`](../src/subsilver/buy_credits.tpl#L190-L226)[`226`](../src/subsilver/buy_credits.tpl#L226)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`171`](../src/subsilver/buy_credits.tpl#L171)[`<->`](../src/subsilver/buy_credits.tpl#L171-L207)[`207`](../src/subsilver/buy_credits.tpl#L207)
 
 ### Version ModernBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`162`](../src/modernbb/buy_credits.tpl#L162)[`<->`](../src/modernbb/buy_credits.tpl#L162-L184)[`184`](../src/modernbb/buy_credits.tpl#L184)

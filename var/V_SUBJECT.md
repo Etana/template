@@ -13,23 +13,23 @@
 ## Utilisations dans les templates
 
 ### Version AwesomeBB
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`17`](../src/awesomebb/posting_confirm_code.tpl#L17)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`11`](../src/awesomebb/posting_confirm_code.tpl#L11)
 
 ### Version phpBB3
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`16`](../src/prosilver/posting_confirm_code.tpl#L16)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`11`](../src/prosilver/posting_confirm_code.tpl#L11)
 
 ### Version phpBB2
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`16`](../src/subsilver/posting_confirm_code.tpl#L16)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`10`](../src/subsilver/posting_confirm_code.tpl#L10)
 
 ### Version ModernBB
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`16`](../src/modernbb/posting_confirm_code.tpl#L16)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`11`](../src/modernbb/posting_confirm_code.tpl#L11)
 
 ### Version PunBB
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`17`](../src/punbb/posting_confirm_code.tpl#L17)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`11`](../src/punbb/posting_confirm_code.tpl#L11)
 
 ### Version Invision
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`18`](../src/invision/posting_confirm_code.tpl#L18)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`12`](../src/invision/posting_confirm_code.tpl#L12)
 
 ### Version Version mobile
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`16`](../src/mobile/posting_confirm_code.tpl#L16)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`10`](../src/mobile/posting_confirm_code.tpl#L10)
 

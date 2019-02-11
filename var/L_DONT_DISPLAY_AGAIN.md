@@ -27,5 +27,5 @@ Chaîne de texte du popup de connexion.
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`234`](../src/punbb/overall_header.tpl#L234)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`237`](../src/invision/overall_header.tpl#L237)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`236`](../src/invision/overall_header.tpl#L236)
 

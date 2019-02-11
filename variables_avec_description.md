@@ -107,6 +107,7 @@
 * [`{L_CFAQ_NOSCRIPT}`](var/L_CFAQ_NOSCRIPT.md#readme)
 * [`{L_CLICK_TO_JOIN_CHAT}`](var/L_CLICK_TO_JOIN_CHAT.md#readme)
 * [`{L_CLOSE_WINDOW}`](var/L_CLOSE_WINDOW.md#readme)
+* [`{L_CONNECTED_MEMBERS}`](var/L_CONNECTED_MEMBERS.md#readme)
 * [`{L_CREDIT_ADD_TITLE}`](var/L_CREDIT_ADD_TITLE.md#readme)
 * [`{L_DELETE_TOPIC}`](var/L_DELETE_TOPIC.md#readme)
 * [`{L_DENY_SELECTED}`](var/L_DENY_SELECTED.md#readme)

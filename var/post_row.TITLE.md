@@ -22,7 +22,7 @@
 
 ### Version phpBB2
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`10`](../src/subsilver/mod_news.tpl#L10)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`332`](../src/subsilver/viewcomments_body.tpl#L332)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`366`](../src/subsilver/viewcomments_body.tpl#L366)
 
 ### Version ModernBB
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`6`](../src/modernbb/mod_news.tpl#L6)

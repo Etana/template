@@ -8,7 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CONNECTED_MEMBERS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CONNECTED_MEMBERS)
+Ce sont les utilisateurs connectés les X dernières heures.
+
 
 ## Utilisations dans les templates
 

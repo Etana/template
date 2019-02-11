@@ -35,7 +35,7 @@ Boucle d'affiche du code de Google Analytics si celui-ci contient un identifiant
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`187`](../src/punbb/overall_header.tpl#L187)[`<->`](../src/punbb/overall_header.tpl#L187-L206)[`206`](../src/punbb/overall_header.tpl#L206)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`190`](../src/invision/overall_header.tpl#L190)[`<->`](../src/invision/overall_header.tpl#L190-L209)[`209`](../src/invision/overall_header.tpl#L209)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`189`](../src/invision/overall_header.tpl#L189)[`<->`](../src/invision/overall_header.tpl#L189-L208)[`208`](../src/invision/overall_header.tpl#L208)
 
 ### Version Version mobile
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`24`](../src/mobile/overall_header.tpl#L24)[`<->`](../src/mobile/overall_header.tpl#L24-L43)[`43`](../src/mobile/overall_header.tpl#L43)

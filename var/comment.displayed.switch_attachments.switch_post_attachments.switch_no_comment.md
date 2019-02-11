@@ -27,20 +27,20 @@
 ## Utilisations dans les templates
 
 ### Version AwesomeBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`263`](../src/awesomebb/viewcomments_body.tpl#L263)[`<->`](../src/awesomebb/viewcomments_body.tpl#L263-L265)[`265`](../src/awesomebb/viewcomments_body.tpl#L265)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`283`](../src/awesomebb/viewcomments_body.tpl#L283)[`<->`](../src/awesomebb/viewcomments_body.tpl#L283-L285)[`285`](../src/awesomebb/viewcomments_body.tpl#L285)
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`379`](../src/prosilver/viewcomments_body.tpl#L379)[`<->`](../src/prosilver/viewcomments_body.tpl#L379-L381)[`381`](../src/prosilver/viewcomments_body.tpl#L381)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`400`](../src/prosilver/viewcomments_body.tpl#L400)[`<->`](../src/prosilver/viewcomments_body.tpl#L400-L402)[`402`](../src/prosilver/viewcomments_body.tpl#L402)
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`435`](../src/subsilver/viewcomments_body.tpl#L435)[`<->`](../src/subsilver/viewcomments_body.tpl#L435-L439)[`439`](../src/subsilver/viewcomments_body.tpl#L439)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`469`](../src/subsilver/viewcomments_body.tpl#L469)[`<->`](../src/subsilver/viewcomments_body.tpl#L469-L473)[`473`](../src/subsilver/viewcomments_body.tpl#L473)
 
 ### Version ModernBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`416`](../src/modernbb/viewcomments_body.tpl#L416)[`<->`](../src/modernbb/viewcomments_body.tpl#L416-L418)[`418`](../src/modernbb/viewcomments_body.tpl#L418)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`433`](../src/modernbb/viewcomments_body.tpl#L433)[`<->`](../src/modernbb/viewcomments_body.tpl#L433-L435)[`435`](../src/modernbb/viewcomments_body.tpl#L435)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`368`](../src/punbb/viewcomments_body.tpl#L368)[`<->`](../src/punbb/viewcomments_body.tpl#L368-L372)[`372`](../src/punbb/viewcomments_body.tpl#L372)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`388`](../src/punbb/viewcomments_body.tpl#L388)[`<->`](../src/punbb/viewcomments_body.tpl#L388-L392)[`392`](../src/punbb/viewcomments_body.tpl#L392)
 
 ### Version Invision
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`396`](../src/invision/viewcomments_body.tpl#L396)[`<->`](../src/invision/viewcomments_body.tpl#L396-L400)[`400`](../src/invision/viewcomments_body.tpl#L400)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`414`](../src/invision/viewcomments_body.tpl#L414)[`<->`](../src/invision/viewcomments_body.tpl#L414-L418)[`418`](../src/invision/viewcomments_body.tpl#L418)
 

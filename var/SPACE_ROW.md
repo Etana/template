@@ -41,6 +41,6 @@ Affiche la valeur renseignée dans votre `PA > Modules > Portail & Widgets | Ges
 
 ### Version Invision
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`18`](../src/invision/overall_footer_begin.tpl#L18)
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`329`](../src/invision/overall_header.tpl#L329)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`328`](../src/invision/overall_header.tpl#L328)
 * __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`6`](../src/invision/portal_body.tpl#L6), [`15`](../src/invision/portal_body.tpl#L15), [`24`](../src/invision/portal_body.tpl#L24), [`33`](../src/invision/portal_body.tpl#L33), [`42`](../src/invision/portal_body.tpl#L42)
 

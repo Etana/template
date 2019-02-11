@@ -25,5 +25,5 @@ Contient le template [`greeting_popup`](../tpl/greeting_popup.md#readme) ou [`gr
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`169`](../src/punbb/overall_header.tpl#L169)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`84`](../src/invision/overall_header.tpl#L84)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`83`](../src/invision/overall_header.tpl#L83)
 

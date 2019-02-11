@@ -25,5 +25,5 @@ Logo du forum spécifié dans `PA > Affichage > Images et Couleurs | Gestion des
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`248`](../src/punbb/overall_header.tpl#L248)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`255`](../src/invision/overall_header.tpl#L255)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`254`](../src/invision/overall_header.tpl#L254)
 

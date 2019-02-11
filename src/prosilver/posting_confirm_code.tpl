@@ -2,13 +2,8 @@
 <form method="post" action="{U_POSTING}" name="post">
 	<p><strong>{L_VALIDATION}:</strong><br />{L_VALIDATION_EXPLAIN}</p>
 	<p>
-        <div id="funcaptcha" data-pkey="{HASH_FUNCAPTCHA}"></div><br />
-        <noscript>
-            <iframe src="https://funcaptcha.com/fc/api/nojs/?pkey={HASH_FUNCAPTCHA}&language={USERLANG}" frameborder="0" scrolling="no" style="width: 308px; height:408px; border-style: none;"></iframe>
-            <div style="width: 306px;height: 60px;border-style: none;bottom: 12px;left: 25px;margin: 5px 0 0 0;padding: 0px;right: 25px;background: #ffffff;border: 1px solid #f7f7f7;border-radius: 5px;">
-                <input type="text" id="fc-token" name="fc-token" placeholder="Copy verification code into here" style="width: 270px;height: 24px;border: 1px solid #f7f7f7;border-radius: 5px;padding: 10px;margin: 7px;resize: none;font-size: 11px;-webkit-font-smoothing: antialiased;color: #212121;background: #f7f7f7;text-align: center;">
-            </div>
-        </noscript>
+		<div class="g-recaptcha" data-sitekey="{HASH_RECAPTCHA_PUBLIC}"></div><br />
+
 		<input type="submit" value="{L_SUBMIT}" name="{V_SUBMIT}" class="button2" />
 	</p>
 	<p>
@@ -40,6 +35,8 @@
 		<input type="hidden" name="poll_length" value="{V_POLL_LENGTH}" />
 		<input type="hidden" name="poll_multiple" value="{V_POLL_MULTIPLE}" />
 		<input type="hidden" name="poll_cancel_vote" value="{V_POLL_CANCEL}" />
+        <input type="hidden" name="array_dices_id" value="{ARRAY_DICES_ID}"/>
+        <input type="hidden" name="array_dices_nb" value="{ARRAY_DICES_NB}"/>
 	</p>
 	{S_HIDDEN_FIELDS}
 </form>

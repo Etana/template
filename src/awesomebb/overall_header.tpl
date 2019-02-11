@@ -120,7 +120,7 @@
         <button type="submit"><i class="material-icons">search</i></button>
     </form>
     <ul id="header-navigation">
-        <li><a id="navigation-home" href="/forum"><i class="material-icons">apps</i>{L_FORUM}</a></li>
+        <li><a id="navigation-home" href="{NAVIGATION_HOME}"><i class="material-icons">apps</i>{L_FORUM}</a></li>
         <li><a id="navigation-recent" href="/latest"><i class="material-icons">comment</i>{L_TOPICS}</a></li>
     </ul>
 </header>

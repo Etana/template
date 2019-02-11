@@ -6,6 +6,36 @@
         <span>{L_POST_NEW_TOPIC}</span>
     </a>
     <!-- END switch_user_authpost -->
+    <div id="page-desc">
+        <div class="page-desc-content">
+            <div>{SINGLE_FORUM_DESC}</div>
+        </div>
+        <div class="page-desc-btn">
+            <i class="material-icons">keyboard_arrow_down</i>
+            <i class="material-icons">keyboard_arrow_up</i>
+        </div>
+    </div>
+    <script type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function() {
+            var desc = $('#page-desc'),
+                desc_content = desc.children('.page-desc-content'),
+                desc_btn = desc.children('.page-desc-btn');
+
+            if (!desc_content.is(':empty')) {
+                desc.addClass('visible');
+
+                if(desc_content.find('div')[0].scrollHeight > 64) {
+                    desc_btn.addClass('visible');
+                }
+            }
+
+            desc_btn.on('click', function() {
+                desc.toggleClass('expanded');
+            });
+        });
+        //]]>
+    </script>
     <div id="breadcrumbs">
         <a href="{U_INDEX}"><i class="material-icons">home</i> <span>{L_INDEX}</span></a>
         {NAV_CAT_DESC}

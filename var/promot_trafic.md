@@ -24,7 +24,7 @@ contenu sur lequel on boucle
 * __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`193`](../src/awesomebb/viewcomments_body.tpl#L193)[`<->`](../src/awesomebb/viewcomments_body.tpl#L193-L218)[`218`](../src/awesomebb/viewcomments_body.tpl#L218)
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`253`](../src/prosilver/viewcomments_body.tpl#L253)[`<->`](../src/prosilver/viewcomments_body.tpl#L253-L272)[`272`](../src/prosilver/viewcomments_body.tpl#L272)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`254`](../src/prosilver/viewcomments_body.tpl#L254)[`<->`](../src/prosilver/viewcomments_body.tpl#L254-L273)[`273`](../src/prosilver/viewcomments_body.tpl#L273)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`274`](../src/prosilver/viewtopic_body.tpl#L274)[`<->`](../src/prosilver/viewtopic_body.tpl#L274-L293)[`293`](../src/prosilver/viewtopic_body.tpl#L293)
 
 ### Version phpBB2

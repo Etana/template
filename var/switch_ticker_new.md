@@ -31,5 +31,5 @@ Boucle d'affichage si les annonces sont activées dans `PA > Général > Message
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`41`](../src/punbb/overall_header.tpl#L41)[`<->`](../src/punbb/overall_header.tpl#L41-L124)[`124`](../src/punbb/overall_header.tpl#L124), [`170`](../src/punbb/overall_header.tpl#L170)[`<->`](../src/punbb/overall_header.tpl#L170-L185)[`185`](../src/punbb/overall_header.tpl#L185), [`266`](../src/punbb/overall_header.tpl#L266)[`<->`](../src/punbb/overall_header.tpl#L266-L280)[`280`](../src/punbb/overall_header.tpl#L280)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`88`](../src/invision/overall_header.tpl#L88)[`<->`](../src/invision/overall_header.tpl#L88-L188)[`188`](../src/invision/overall_header.tpl#L188), [`285`](../src/invision/overall_header.tpl#L285)[`<->`](../src/invision/overall_header.tpl#L285-L299)[`299`](../src/invision/overall_header.tpl#L299)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`87`](../src/invision/overall_header.tpl#L87)[`<->`](../src/invision/overall_header.tpl#L87-L187)[`187`](../src/invision/overall_header.tpl#L187), [`284`](../src/invision/overall_header.tpl#L284)[`<->`](../src/invision/overall_header.tpl#L284-L298)[`298`](../src/invision/overall_header.tpl#L298)
 

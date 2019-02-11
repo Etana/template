@@ -28,7 +28,7 @@
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`63`](../src/prosilver/buy_credits.tpl#L63)[`<->`](../src/prosilver/buy_credits.tpl#L63-L65)[`65`](../src/prosilver/buy_credits.tpl#L65)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`95`](../src/subsilver/buy_credits.tpl#L95)[`<->`](../src/subsilver/buy_credits.tpl#L95-L97)[`97`](../src/subsilver/buy_credits.tpl#L97)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`76`](../src/subsilver/buy_credits.tpl#L76)[`<->`](../src/subsilver/buy_credits.tpl#L76-L78)[`78`](../src/subsilver/buy_credits.tpl#L78)
 
 ### Version ModernBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`57`](../src/modernbb/buy_credits.tpl#L57)[`<->`](../src/modernbb/buy_credits.tpl#L57-L59)[`59`](../src/modernbb/buy_credits.tpl#L59)

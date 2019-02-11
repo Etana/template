@@ -21,6 +21,6 @@
 ### Version Invision
 * __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`162`](../src/invision/topics_blog_box.tpl#L162)
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`159`](../src/invision/topics_list_box.tpl#L159)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`445`](../src/invision/viewcomments_body.tpl#L445)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`463`](../src/invision/viewcomments_body.tpl#L463)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`280`](../src/invision/viewtopic_body.tpl#L280)
 

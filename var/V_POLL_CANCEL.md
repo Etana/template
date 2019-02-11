@@ -13,17 +13,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`42`](../src/prosilver/posting_confirm_code.tpl#L42)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`37`](../src/prosilver/posting_confirm_code.tpl#L37)
 
 ### Version phpBB2
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`42`](../src/subsilver/posting_confirm_code.tpl#L42)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`36`](../src/subsilver/posting_confirm_code.tpl#L36)
 
 ### Version ModernBB
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`42`](../src/modernbb/posting_confirm_code.tpl#L42)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`37`](../src/modernbb/posting_confirm_code.tpl#L37)
 
 ### Version PunBB
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`43`](../src/punbb/posting_confirm_code.tpl#L43)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`37`](../src/punbb/posting_confirm_code.tpl#L37)
 
 ### Version Invision
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`44`](../src/invision/posting_confirm_code.tpl#L44)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`38`](../src/invision/posting_confirm_code.tpl#L38)
 

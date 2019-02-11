@@ -39,5 +39,5 @@ Le contenu de la boucle s'affiche ainsi au plus une fois pour un nouveau message
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`129`](../src/punbb/overall_header.tpl#L129)[`<->`](../src/punbb/overall_header.tpl#L129-L132)[`132`](../src/punbb/overall_header.tpl#L132)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`44`](../src/invision/overall_header.tpl#L44)[`<->`](../src/invision/overall_header.tpl#L44-L47)[`47`](../src/invision/overall_header.tpl#L47)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`43`](../src/invision/overall_header.tpl#L43)[`<->`](../src/invision/overall_header.tpl#L43-L46)[`46`](../src/invision/overall_header.tpl#L46)
 

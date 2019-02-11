@@ -16,7 +16,7 @@ Remplacé par l'identifiant numérique du sous-forum.
 
 ### Version AwesomeBB
 * __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`80`](../src/awesomebb/viewcomments_body.tpl#L80)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`27`](../src/awesomebb/viewforum_body.tpl#L27), [`27`](../src/awesomebb/viewforum_body.tpl#L27)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`57`](../src/awesomebb/viewforum_body.tpl#L57), [`57`](../src/awesomebb/viewforum_body.tpl#L57)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`76`](../src/awesomebb/viewtopic_body.tpl#L76)
 
 ### Version phpBB3

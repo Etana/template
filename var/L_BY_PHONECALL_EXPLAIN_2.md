@@ -18,9 +18,6 @@
 ### Version phpBB3
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`52`](../src/prosilver/buy_credits.tpl#L52)
 
-### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`86`](../src/subsilver/buy_credits.tpl#L86)
-
 ### Version ModernBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`46`](../src/modernbb/buy_credits.tpl#L46)
 

@@ -21,20 +21,20 @@
 ## Utilisations dans les templates
 
 ### Version AwesomeBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`252`](../src/awesomebb/viewcomments_body.tpl#L252)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`272`](../src/awesomebb/viewcomments_body.tpl#L272)
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`368`](../src/prosilver/viewcomments_body.tpl#L368)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`389`](../src/prosilver/viewcomments_body.tpl#L389)
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`424`](../src/subsilver/viewcomments_body.tpl#L424)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`458`](../src/subsilver/viewcomments_body.tpl#L458)
 
 ### Version ModernBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`405`](../src/modernbb/viewcomments_body.tpl#L405)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`422`](../src/modernbb/viewcomments_body.tpl#L422)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`357`](../src/punbb/viewcomments_body.tpl#L357)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`377`](../src/punbb/viewcomments_body.tpl#L377)
 
 ### Version Invision
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`385`](../src/invision/viewcomments_body.tpl#L385)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`403`](../src/invision/viewcomments_body.tpl#L403)
 

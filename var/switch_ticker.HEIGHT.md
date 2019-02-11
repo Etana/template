@@ -30,5 +30,5 @@ Contient la hauteur des annonces définie dans `PA > Général > Messages et Ema
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`48`](../src/punbb/overall_header.tpl#L48), [`140`](../src/punbb/overall_header.tpl#L140), [`287`](../src/punbb/overall_header.tpl#L287)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`55`](../src/invision/overall_header.tpl#L55), [`95`](../src/invision/overall_header.tpl#L95), [`306`](../src/invision/overall_header.tpl#L306)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`54`](../src/invision/overall_header.tpl#L54), [`94`](../src/invision/overall_header.tpl#L94), [`305`](../src/invision/overall_header.tpl#L305)
 

@@ -14,7 +14,7 @@ Lien vers "Sujets surveillés" dans le menu Plus !
 
 ### Version AwesomeBB
 * __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`79`](../src/awesomebb/viewcomments_body.tpl#L79)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`26`](../src/awesomebb/viewforum_body.tpl#L26)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`56`](../src/awesomebb/viewforum_body.tpl#L56)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`75`](../src/awesomebb/viewtopic_body.tpl#L75)
 
 ### Version phpBB3

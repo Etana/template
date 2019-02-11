@@ -15,7 +15,7 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version AwesomeBB
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`34`](../src/awesomebb/viewforum_body.tpl#L34), [`52`](../src/awesomebb/viewforum_body.tpl#L52)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`64`](../src/awesomebb/viewforum_body.tpl#L64), [`82`](../src/awesomebb/viewforum_body.tpl#L82)
 
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`11`](../src/prosilver/viewforum_body.tpl#L11), [`57`](../src/prosilver/viewforum_body.tpl#L57)

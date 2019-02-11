@@ -30,5 +30,5 @@ Contient le temps d'arrêt des annonces défini dans `PA > Général > Messages 
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`108`](../src/punbb/overall_header.tpl#L108), [`144`](../src/punbb/overall_header.tpl#L144)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`59`](../src/invision/overall_header.tpl#L59), [`157`](../src/invision/overall_header.tpl#L157)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`58`](../src/invision/overall_header.tpl#L58), [`156`](../src/invision/overall_header.tpl#L156)
 

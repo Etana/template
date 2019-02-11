@@ -14,7 +14,7 @@ Image pour ouvrir un panneau définie dans `PA > Affichage > Images et Couleurs 
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`256`](../src/prosilver/viewcomments_body.tpl#L256)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`257`](../src/prosilver/viewcomments_body.tpl#L257)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`277`](../src/prosilver/viewtopic_body.tpl#L277)
 
 ### Version phpBB2
@@ -23,7 +23,7 @@ Image pour ouvrir un panneau définie dans `PA > Affichage > Images et Couleurs 
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`262`](../src/subsilver/posting_body.tpl#L262), [`386`](../src/subsilver/posting_body.tpl#L386), [`440`](../src/subsilver/posting_body.tpl#L440), [`546`](../src/subsilver/posting_body.tpl#L546)
 * __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`5`](../src/subsilver/posting_poll_body.tpl#L5)
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`117`](../src/subsilver/search_body.tpl#L117)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`280`](../src/subsilver/viewcomments_body.tpl#L280), [`553`](../src/subsilver/viewcomments_body.tpl#L553)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`280`](../src/subsilver/viewcomments_body.tpl#L280), [`587`](../src/subsilver/viewcomments_body.tpl#L587)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`74`](../src/subsilver/viewforum_body.tpl#L74)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`317`](../src/subsilver/viewtopic_body.tpl#L317), [`425`](../src/subsilver/viewtopic_body.tpl#L425)
 

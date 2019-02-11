@@ -28,19 +28,19 @@ Exemple de remplacement français :
 ## Utilisations dans les templates
 
 ### Version AwesomeBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`336`](../src/awesomebb/viewcomments_body.tpl#L336)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`306`](../src/awesomebb/viewtopic_body.tpl#L306)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`356`](../src/awesomebb/viewcomments_body.tpl#L356)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`327`](../src/awesomebb/viewtopic_body.tpl#L327)
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`430`](../src/prosilver/viewcomments_body.tpl#L430)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`452`](../src/prosilver/viewcomments_body.tpl#L452)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`269`](../src/prosilver/viewtopic_body.tpl#L269)
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`506`](../src/subsilver/viewcomments_body.tpl#L506)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`540`](../src/subsilver/viewcomments_body.tpl#L540)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`304`](../src/subsilver/viewtopic_body.tpl#L304)
 
 ### Version ModernBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`463`](../src/modernbb/viewcomments_body.tpl#L463)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`481`](../src/modernbb/viewcomments_body.tpl#L481)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`301`](../src/modernbb/viewtopic_body.tpl#L301)
 
 ### Version PunBB

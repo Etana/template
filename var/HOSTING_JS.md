@@ -29,7 +29,7 @@ Contient tout le code html incluant les JavaScript de votre forum et un peu de C
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`186`](../src/punbb/overall_header.tpl#L186)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`189`](../src/invision/overall_header.tpl#L189)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`188`](../src/invision/overall_header.tpl#L188)
 
 ### Version Version mobile
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`48`](../src/mobile/overall_header.tpl#L48)

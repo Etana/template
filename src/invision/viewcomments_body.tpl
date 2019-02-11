@@ -306,7 +306,25 @@ showHiddenMessage = function(id)
 	<!-- END promot_trafic -->
 
 </div>
-
+<!-- BEGIN switch_forum_rules -->
+<div class="row1" id="forum_rules">
+	<div class="maintitle">
+		<h3>{L_FORUM_RULES}</h3>
+	</div>
+	<table>
+		<tr>
+			<!-- BEGIN switch_forum_rule_image -->
+			<td class="logo">
+				<img src="{RULE_IMG_URL}" alt="" />
+			</td>
+			<!-- END switch_forum_rule_image -->
+			<td class="rules post-entry">
+				{RULE_MSG}
+			</td>
+		</tr>
+	</table>
+</div>
+<!-- END switch_forum_rules -->
 <div id="bookmarks">
 	{L_BOOKMARKS}&nbsp;
 	<!-- BEGIN social_bookmarking -->

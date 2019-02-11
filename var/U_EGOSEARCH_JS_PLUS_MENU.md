@@ -14,7 +14,7 @@ Lien vers "Voir ses messages" dans le menu Plus !
 
 ### Version AwesomeBB
 * __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`77`](../src/awesomebb/viewcomments_body.tpl#L77)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`24`](../src/awesomebb/viewforum_body.tpl#L24)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`54`](../src/awesomebb/viewforum_body.tpl#L54)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`73`](../src/awesomebb/viewtopic_body.tpl#L73)
 
 ### Version phpBB3

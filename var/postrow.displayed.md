@@ -128,7 +128,7 @@
 
 ### Version phpBB3
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`6`](../src/prosilver/posting_topic_review.tpl#L6)[`<->`](../src/prosilver/posting_topic_review.tpl#L6-L18)[`18`](../src/prosilver/posting_topic_review.tpl#L18)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`119`](../src/prosilver/viewcomments_body.tpl#L119)[`<->`](../src/prosilver/viewcomments_body.tpl#L119-L250)[`250`](../src/prosilver/viewcomments_body.tpl#L250)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`119`](../src/prosilver/viewcomments_body.tpl#L119)[`<->`](../src/prosilver/viewcomments_body.tpl#L119-L251)[`251`](../src/prosilver/viewcomments_body.tpl#L251)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`127`](../src/prosilver/viewtopic_body.tpl#L127)[`<->`](../src/prosilver/viewtopic_body.tpl#L127-L248)[`248`](../src/prosilver/viewtopic_body.tpl#L248)
 
 ### Version phpBB2

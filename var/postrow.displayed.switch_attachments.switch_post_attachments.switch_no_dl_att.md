@@ -33,7 +33,7 @@
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`190`](../src/awesomebb/viewtopic_body.tpl#L190)[`<->`](../src/awesomebb/viewtopic_body.tpl#L190-L192)[`192`](../src/awesomebb/viewtopic_body.tpl#L192), [`200`](../src/awesomebb/viewtopic_body.tpl#L200)[`<->`](../src/awesomebb/viewtopic_body.tpl#L200-L202)[`202`](../src/awesomebb/viewtopic_body.tpl#L202)
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`197`](../src/prosilver/viewcomments_body.tpl#L197)[`<->`](../src/prosilver/viewcomments_body.tpl#L197-L199)[`199`](../src/prosilver/viewcomments_body.tpl#L199), [`205`](../src/prosilver/viewcomments_body.tpl#L205)[`<->`](../src/prosilver/viewcomments_body.tpl#L205-L207)[`207`](../src/prosilver/viewcomments_body.tpl#L207)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`197`](../src/prosilver/viewcomments_body.tpl#L197)[`<->`](../src/prosilver/viewcomments_body.tpl#L197-L199)[`199`](../src/prosilver/viewcomments_body.tpl#L199), [`206`](../src/prosilver/viewcomments_body.tpl#L206)[`<->`](../src/prosilver/viewcomments_body.tpl#L206-L208)[`208`](../src/prosilver/viewcomments_body.tpl#L208)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`192`](../src/prosilver/viewtopic_body.tpl#L192)[`<->`](../src/prosilver/viewtopic_body.tpl#L192-L194)[`194`](../src/prosilver/viewtopic_body.tpl#L194), [`200`](../src/prosilver/viewtopic_body.tpl#L200)[`<->`](../src/prosilver/viewtopic_body.tpl#L200-L202)[`202`](../src/prosilver/viewtopic_body.tpl#L202)
 
 ### Version phpBB2

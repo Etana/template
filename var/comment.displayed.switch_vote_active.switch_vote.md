@@ -26,17 +26,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`331`](../src/prosilver/viewcomments_body.tpl#L331)[`<->`](../src/prosilver/viewcomments_body.tpl#L331-L333)[`333`](../src/prosilver/viewcomments_body.tpl#L333), [`351`](../src/prosilver/viewcomments_body.tpl#L351)[`<->`](../src/prosilver/viewcomments_body.tpl#L351-L353)[`353`](../src/prosilver/viewcomments_body.tpl#L353)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`352`](../src/prosilver/viewcomments_body.tpl#L352)[`<->`](../src/prosilver/viewcomments_body.tpl#L352-L354)[`354`](../src/prosilver/viewcomments_body.tpl#L354), [`372`](../src/prosilver/viewcomments_body.tpl#L372)[`<->`](../src/prosilver/viewcomments_body.tpl#L372-L374)[`374`](../src/prosilver/viewcomments_body.tpl#L374)
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`388`](../src/subsilver/viewcomments_body.tpl#L388)[`<->`](../src/subsilver/viewcomments_body.tpl#L388-L390)[`390`](../src/subsilver/viewcomments_body.tpl#L390), [`408`](../src/subsilver/viewcomments_body.tpl#L408)[`<->`](../src/subsilver/viewcomments_body.tpl#L408-L410)[`410`](../src/subsilver/viewcomments_body.tpl#L410)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`422`](../src/subsilver/viewcomments_body.tpl#L422)[`<->`](../src/subsilver/viewcomments_body.tpl#L422-L424)[`424`](../src/subsilver/viewcomments_body.tpl#L424), [`442`](../src/subsilver/viewcomments_body.tpl#L442)[`<->`](../src/subsilver/viewcomments_body.tpl#L442-L444)[`444`](../src/subsilver/viewcomments_body.tpl#L444)
 
 ### Version ModernBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`360`](../src/modernbb/viewcomments_body.tpl#L360)[`<->`](../src/modernbb/viewcomments_body.tpl#L360-L362)[`362`](../src/modernbb/viewcomments_body.tpl#L362), [`364`](../src/modernbb/viewcomments_body.tpl#L364)[`<->`](../src/modernbb/viewcomments_body.tpl#L364-L366)[`366`](../src/modernbb/viewcomments_body.tpl#L366)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`377`](../src/modernbb/viewcomments_body.tpl#L377)[`<->`](../src/modernbb/viewcomments_body.tpl#L377-L379)[`379`](../src/modernbb/viewcomments_body.tpl#L379), [`381`](../src/modernbb/viewcomments_body.tpl#L381)[`<->`](../src/modernbb/viewcomments_body.tpl#L381-L383)[`383`](../src/modernbb/viewcomments_body.tpl#L383)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`322`](../src/punbb/viewcomments_body.tpl#L322)[`<->`](../src/punbb/viewcomments_body.tpl#L322-L324)[`324`](../src/punbb/viewcomments_body.tpl#L324), [`342`](../src/punbb/viewcomments_body.tpl#L342)[`<->`](../src/punbb/viewcomments_body.tpl#L342-L344)[`344`](../src/punbb/viewcomments_body.tpl#L344)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`342`](../src/punbb/viewcomments_body.tpl#L342)[`<->`](../src/punbb/viewcomments_body.tpl#L342-L344)[`344`](../src/punbb/viewcomments_body.tpl#L344), [`362`](../src/punbb/viewcomments_body.tpl#L362)[`<->`](../src/punbb/viewcomments_body.tpl#L362-L364)[`364`](../src/punbb/viewcomments_body.tpl#L364)
 
 ### Version Invision
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`351`](../src/invision/viewcomments_body.tpl#L351)[`<->`](../src/invision/viewcomments_body.tpl#L351-L353)[`353`](../src/invision/viewcomments_body.tpl#L353), [`371`](../src/invision/viewcomments_body.tpl#L371)[`<->`](../src/invision/viewcomments_body.tpl#L371-L373)[`373`](../src/invision/viewcomments_body.tpl#L373)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`369`](../src/invision/viewcomments_body.tpl#L369)[`<->`](../src/invision/viewcomments_body.tpl#L369-L371)[`371`](../src/invision/viewcomments_body.tpl#L371), [`389`](../src/invision/viewcomments_body.tpl#L389)[`<->`](../src/invision/viewcomments_body.tpl#L389-L391)[`391`](../src/invision/viewcomments_body.tpl#L391)
 

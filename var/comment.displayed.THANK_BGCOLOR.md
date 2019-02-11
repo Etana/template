@@ -17,20 +17,20 @@
 ## Utilisations dans les templates
 
 ### Version AwesomeBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`241`](../src/awesomebb/viewcomments_body.tpl#L241)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`261`](../src/awesomebb/viewcomments_body.tpl#L261)
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`299`](../src/prosilver/viewcomments_body.tpl#L299)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`320`](../src/prosilver/viewcomments_body.tpl#L320)
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`363`](../src/subsilver/viewcomments_body.tpl#L363)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`397`](../src/subsilver/viewcomments_body.tpl#L397)
 
 ### Version ModernBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`307`](../src/modernbb/viewcomments_body.tpl#L307)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`324`](../src/modernbb/viewcomments_body.tpl#L324)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`301`](../src/punbb/viewcomments_body.tpl#L301), [`303`](../src/punbb/viewcomments_body.tpl#L303), [`316`](../src/punbb/viewcomments_body.tpl#L316)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`321`](../src/punbb/viewcomments_body.tpl#L321), [`323`](../src/punbb/viewcomments_body.tpl#L323), [`336`](../src/punbb/viewcomments_body.tpl#L336)
 
 ### Version Invision
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`330`](../src/invision/viewcomments_body.tpl#L330), [`332`](../src/invision/viewcomments_body.tpl#L332), [`418`](../src/invision/viewcomments_body.tpl#L418)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`348`](../src/invision/viewcomments_body.tpl#L348), [`350`](../src/invision/viewcomments_body.tpl#L350), [`436`](../src/invision/viewcomments_body.tpl#L436)
 

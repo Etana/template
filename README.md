@@ -117,7 +117,7 @@
 
 * __[`merge_body`](tpl/merge_body.md#readme)__ __:__ Fusion des sujets
 * __[`merge_select_body`](tpl/merge_select_body.md#readme)__ __:__ Fusion des sujets - selection
-* __[`modcp_body`](tpl/modcp_body.md#readme)__ __:__ Panneau de contrôle de modération
+* __[`modcp_body`](tpl/modcp_body.md#readme)__ __:__ Panneau de modération
 * __[`modcp_move`](tpl/modcp_move.md#readme)__ __:__ Panneau de modération => déplacer un sujet
 * __[`modcp_split`](tpl/modcp_split.md#readme)__ __:__ Panneau de modération => diviser un sujet
 * __[`modcp_viewip`](tpl/modcp_viewip.md#readme)__ __:__ Panneau de modération => voir les adresses IP

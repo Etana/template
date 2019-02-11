@@ -17,5 +17,5 @@
 ## Utilisations dans les templates
 
 ### Version ModernBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`320`](../src/modernbb/viewcomments_body.tpl#L320)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`337`](../src/modernbb/viewcomments_body.tpl#L337)
 

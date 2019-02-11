@@ -22,18 +22,18 @@ Remplacé par un code html avec l'image `Voir le sujet suivant` spécifiée dans
 * __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`88`](../src/awesomebb/viewcomments_body.tpl#L88)
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`102`](../src/prosilver/viewcomments_body.tpl#L102), [`420`](../src/prosilver/viewcomments_body.tpl#L420)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`102`](../src/prosilver/viewcomments_body.tpl#L102), [`442`](../src/prosilver/viewcomments_body.tpl#L442)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`109`](../src/prosilver/viewtopic_body.tpl#L109), [`259`](../src/prosilver/viewtopic_body.tpl#L259)
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`106`](../src/subsilver/viewcomments_body.tpl#L106), [`485`](../src/subsilver/viewcomments_body.tpl#L485)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`106`](../src/subsilver/viewcomments_body.tpl#L106), [`519`](../src/subsilver/viewcomments_body.tpl#L519)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`109`](../src/subsilver/viewtopic_body.tpl#L109), [`285`](../src/subsilver/viewtopic_body.tpl#L285)
 
 ### Version ModernBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`96`](../src/modernbb/viewcomments_body.tpl#L96), [`449`](../src/modernbb/viewcomments_body.tpl#L449)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`96`](../src/modernbb/viewcomments_body.tpl#L96), [`467`](../src/modernbb/viewcomments_body.tpl#L467)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`102`](../src/modernbb/viewtopic_body.tpl#L102), [`287`](../src/modernbb/viewtopic_body.tpl#L287)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`116`](../src/punbb/viewcomments_body.tpl#L116), [`414`](../src/punbb/viewcomments_body.tpl#L414)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`116`](../src/punbb/viewcomments_body.tpl#L116), [`435`](../src/punbb/viewcomments_body.tpl#L435)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`117`](../src/punbb/viewtopic_body.tpl#L117), [`265`](../src/punbb/viewtopic_body.tpl#L265)
 

@@ -23,7 +23,7 @@ Action du formulaire de confirmation.
 * __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`7`](../src/prosilver/confirm_body.tpl#L7)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`209`](../src/subsilver/buy_credits.tpl#L209)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`190`](../src/subsilver/buy_credits.tpl#L190)
 * __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`12`](../src/subsilver/confirm_body.tpl#L12)
 
 ### Version ModernBB

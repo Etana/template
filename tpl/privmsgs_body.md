@@ -96,6 +96,7 @@
 * __[`<!-- END listrow -->`](../var/listrow.md#readme)__ __:__ ligne [`42`](../src/awesomebb/privmsgs_body.tpl#L42)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.DATE}`](../var/listrow.DATE.md#readme)__ __:__ ligne [`38`](../src/awesomebb/privmsgs_body.tpl#L38)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.FROM}`](../var/listrow.FROM.md#readme)__ __:__ ligne [`38`](../src/awesomebb/privmsgs_body.tpl#L38)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.PRIVMSG_FOLDER_IMG}`](../var/listrow.PRIVMSG_FOLDER_IMG.md#readme)__ __:__ ligne [`22`](../src/awesomebb/privmsgs_body.tpl#L22)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.PRIVMSG_ICON}`](../var/listrow.PRIVMSG_ICON.md#readme)__ __:__ ligne [`32`](../src/awesomebb/privmsgs_body.tpl#L32)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.ROW_CLASS}`](../var/listrow.ROW_CLASS.md#readme)__ __:__ ligne [`21`](../src/awesomebb/privmsgs_body.tpl#L21)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.SUBJECT}`](../var/listrow.SUBJECT.md#readme)__ __:__ ligne [`34`](../src/awesomebb/privmsgs_body.tpl#L34)

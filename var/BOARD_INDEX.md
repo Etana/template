@@ -17,7 +17,7 @@ Affiche le contenu du template [`index_box`](../tpl/index_box.md#readme) ou [`in
 ### Version AwesomeBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`16`](../src/awesomebb/index_body.tpl#L16)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`3`](../src/awesomebb/profile_send_pass.tpl#L3)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`42`](../src/awesomebb/viewforum_body.tpl#L42)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`72`](../src/awesomebb/viewforum_body.tpl#L72)
 
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`48`](../src/prosilver/index_body.tpl#L48)
@@ -41,5 +41,5 @@ Affiche le contenu du template [`index_box`](../tpl/index_box.md#readme) ou [`in
 
 ### Version Version mobile
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`1`](../src/mobile/profile_send_pass.tpl#L1)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`1`](../src/mobile/viewforum_body.tpl#L1)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`11`](../src/mobile/viewforum_body.tpl#L11)
 

@@ -202,6 +202,7 @@ showHiddenMessage = function(id)
 									<span>{postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT}</span>
 									<!-- END switch_no_comment -->
 
+
 									<!-- BEGIN switch_no_dl_att -->
 									<span><strong>{postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL}</strong></span>
 									<!-- END switch_no_dl_att -->
@@ -270,6 +271,26 @@ showHiddenMessage = function(id)
 	<span class="corners-bottom"><span></span></span>
 </div>
 <!-- END promot_trafic -->
+<!-- BEGIN switch_forum_rules -->
+<div class="post row1" id="forum_rules">
+	<span class="corners-top"><span></span></span>
+	<div class="h3">&nbsp;{L_FORUM_RULES}</div>
+	<div class="clear"></div>
+	<table class="postbody">
+		<tr>
+			<!-- BEGIN switch_forum_rule_image -->
+			<td class="logo">
+				<img src="{RULE_IMG_URL}" alt="" />
+			</td>
+			<!-- END switch_forum_rule_image -->
+			<td class="rules content">
+				{RULE_MSG}
+			</td>
+		</tr>
+	</table>
+	<span class="corners-bottom"><span></span></span>
+</div>
+<!-- END switch_forum_rules -->
 
 <div id="bookmarks">
 	{L_BOOKMARKS}&nbsp;
@@ -408,6 +429,7 @@ showHiddenMessage = function(id)
 		<span class="corners-bottom"><span></span></span></div>
 	</div>
 	<!-- END no_comment -->
+
 
 	<a name="bottomtitle"></a>
 

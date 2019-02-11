@@ -13,7 +13,7 @@ Lien pour surveiller les sujets du forum concerné.
 ## Utilisations dans les templates
 
 ### Version AwesomeBB
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`52`](../src/awesomebb/viewforum_body.tpl#L52)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`82`](../src/awesomebb/viewforum_body.tpl#L82)
 
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`57`](../src/prosilver/viewforum_body.tpl#L57)

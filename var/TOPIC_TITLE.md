@@ -18,13 +18,13 @@
 
 ### Version phpBB3
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`2`](../src/prosilver/calendar_overview_topic.tpl#L2)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`41`](../src/prosilver/viewcomments_body.tpl#L41), [`285`](../src/prosilver/viewcomments_body.tpl#L285)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`41`](../src/prosilver/viewcomments_body.tpl#L41), [`306`](../src/prosilver/viewcomments_body.tpl#L306)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`43`](../src/prosilver/viewtopic_body.tpl#L43)
 
 ### Version phpBB2
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`3`](../src/subsilver/calendar_overview_topic.tpl#L3)
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`14`](../src/subsilver/merge_body.tpl#L14)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`103`](../src/subsilver/viewcomments_body.tpl#L103), [`320`](../src/subsilver/viewcomments_body.tpl#L320), [`482`](../src/subsilver/viewcomments_body.tpl#L482)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`103`](../src/subsilver/viewcomments_body.tpl#L103), [`354`](../src/subsilver/viewcomments_body.tpl#L354), [`516`](../src/subsilver/viewcomments_body.tpl#L516)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`105`](../src/subsilver/viewtopic_body.tpl#L105), [`282`](../src/subsilver/viewtopic_body.tpl#L282)
 
 ### Version ModernBB
@@ -34,7 +34,7 @@
 
 ### Version PunBB
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`2`](../src/punbb/calendar_overview_topic.tpl#L2)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`74`](../src/punbb/viewcomments_body.tpl#L74), [`98`](../src/punbb/viewcomments_body.tpl#L98), [`454`](../src/punbb/viewcomments_body.tpl#L454)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`74`](../src/punbb/viewcomments_body.tpl#L74), [`98`](../src/punbb/viewcomments_body.tpl#L98), [`475`](../src/punbb/viewcomments_body.tpl#L475)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`75`](../src/punbb/viewtopic_body.tpl#L75), [`99`](../src/punbb/viewtopic_body.tpl#L99), [`304`](../src/punbb/viewtopic_body.tpl#L304)
 
 ### Version Invision

@@ -26,5 +26,5 @@ Identifiant `left` attribué aux widgets de la colonne de gauche si celle-ci est
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`306`](../src/punbb/overall_header.tpl#L306)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`325`](../src/invision/overall_header.tpl#L325)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`324`](../src/invision/overall_header.tpl#L324)
 

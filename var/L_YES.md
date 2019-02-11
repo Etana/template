@@ -29,7 +29,7 @@ Chaîne de texte.
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`186`](../src/prosilver/profile_add_body.tpl#L186), [`196`](../src/prosilver/profile_add_body.tpl#L196), [`229`](../src/prosilver/profile_add_body.tpl#L229), [`238`](../src/prosilver/profile_add_body.tpl#L238), [`247`](../src/prosilver/profile_add_body.tpl#L247), [`256`](../src/prosilver/profile_add_body.tpl#L256), [`263`](../src/prosilver/profile_add_body.tpl#L263), [`272`](../src/prosilver/profile_add_body.tpl#L272), [`283`](../src/prosilver/profile_add_body.tpl#L283), [`291`](../src/prosilver/profile_add_body.tpl#L291), [`299`](../src/prosilver/profile_add_body.tpl#L299), [`308`](../src/prosilver/profile_add_body.tpl#L308), [`316`](../src/prosilver/profile_add_body.tpl#L316), [`323`](../src/prosilver/profile_add_body.tpl#L323), [`330`](../src/prosilver/profile_add_body.tpl#L330), [`337`](../src/prosilver/profile_add_body.tpl#L337)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`213`](../src/subsilver/buy_credits.tpl#L213)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`194`](../src/subsilver/buy_credits.tpl#L194)
 * __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`15`](../src/subsilver/confirm_body.tpl#L15)
 * __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`28`](../src/subsilver/modcp_move.tpl#L28)
 * __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`53`](../src/subsilver/posting_poll_body.tpl#L53), [`58`](../src/subsilver/posting_poll_body.tpl#L58), [`64`](../src/subsilver/posting_poll_body.tpl#L64)

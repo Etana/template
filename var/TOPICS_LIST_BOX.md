@@ -13,7 +13,7 @@ Affiche le template [`topics_list_box`](../tpl/topics_list_box.md#readme) ou [`t
 ## Utilisations dans les templates
 
 ### Version AwesomeBB
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`46`](../src/awesomebb/viewforum_body.tpl#L46)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`76`](../src/awesomebb/viewforum_body.tpl#L76)
 
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`46`](../src/prosilver/viewforum_body.tpl#L46)
@@ -31,5 +31,5 @@ Affiche le template [`topics_list_box`](../tpl/topics_list_box.md#readme) ou [`t
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`21`](../src/invision/viewforum_body.tpl#L21)
 
 ### Version Version mobile
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`5`](../src/mobile/viewforum_body.tpl#L5)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`15`](../src/mobile/viewforum_body.tpl#L15)
 

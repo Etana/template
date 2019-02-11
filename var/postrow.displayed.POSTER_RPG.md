@@ -20,7 +20,7 @@
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`276`](../src/awesomebb/viewtopic_body.tpl#L276)
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`236`](../src/prosilver/viewcomments_body.tpl#L236)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`237`](../src/prosilver/viewcomments_body.tpl#L237)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`231`](../src/prosilver/viewtopic_body.tpl#L231)
 
 ### Version phpBB2

@@ -14,7 +14,7 @@ Affiche les modérateurs du forum concerné.
 
 ### Version AwesomeBB
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`217`](../src/awesomebb/album_cat_body.tpl#L217)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`64`](../src/awesomebb/viewforum_body.tpl#L64)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`94`](../src/awesomebb/viewforum_body.tpl#L94)
 
 ### Version phpBB3
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`186`](../src/prosilver/album_cat_body.tpl#L186)

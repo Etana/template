@@ -37,7 +37,6 @@
 	<link type="text/css" rel="stylesheet" href="{JQUERY_DIR}ticker/ticker.css" />
 	<script src="{JQUERY_DIR}ticker/ticker.js" type="text/javascript"></script>
 	<!-- END switch_ticker -->
-
 	<script type="text/javascript">
 	//<![CDATA[
 	$(document).ready(function(){

@@ -31,7 +31,7 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`23`](../src/awesomebb/memberlist_body.tpl#L23)
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`29`](../src/awesomebb/merge_body.tpl#L29)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`156`](../src/awesomebb/posting_body.tpl#L156), [`156`](../src/awesomebb/posting_body.tpl#L156), [`171`](../src/awesomebb/posting_body.tpl#L171)
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`14`](../src/awesomebb/posting_confirm_code.tpl#L14)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`8`](../src/awesomebb/posting_confirm_code.tpl#L8)
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`604`](../src/awesomebb/profile_add_body.tpl#L604)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`11`](../src/awesomebb/profile_send_pass.tpl#L11)
 
@@ -46,7 +46,7 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`17`](../src/prosilver/memberlist_body.tpl#L17)
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`36`](../src/prosilver/merge_body.tpl#L36)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`184`](../src/prosilver/posting_body.tpl#L184), [`186`](../src/prosilver/posting_body.tpl#L186)
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`12`](../src/prosilver/posting_confirm_code.tpl#L12)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`7`](../src/prosilver/posting_confirm_code.tpl#L7)
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`433`](../src/prosilver/profile_add_body.tpl#L433)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`20`](../src/prosilver/profile_send_pass.tpl#L20)
 
@@ -55,13 +55,13 @@ Chaîne de texte.
 * __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)__ __:__ lignes [`103`](../src/subsilver/album_nuffimage_box.tpl#L103)
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`340`](../src/subsilver/album_showpage_body.tpl#L340)
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`305`](../src/subsilver/album_upload_body.tpl#L305), [`309`](../src/subsilver/album_upload_body.tpl#L309)
-* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`99`](../src/subsilver/buy_credits.tpl#L99), [`137`](../src/subsilver/buy_credits.tpl#L137), [`154`](../src/subsilver/buy_credits.tpl#L154), [`164`](../src/subsilver/buy_credits.tpl#L164)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`80`](../src/subsilver/buy_credits.tpl#L80), [`118`](../src/subsilver/buy_credits.tpl#L118), [`135`](../src/subsilver/buy_credits.tpl#L135), [`145`](../src/subsilver/buy_credits.tpl#L145)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes 
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`14`](../src/subsilver/memberlist_body.tpl#L14)
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`30`](../src/subsilver/merge_body.tpl#L30)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`247`](../src/subsilver/posting_body.tpl#L247), [`411`](../src/subsilver/posting_body.tpl#L411)
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`14`](../src/subsilver/posting_confirm_code.tpl#L14)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`8`](../src/subsilver/posting_confirm_code.tpl#L8)
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`379`](../src/subsilver/profile_add_body.tpl#L379)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`25`](../src/subsilver/profile_send_pass.tpl#L25)
 
@@ -76,7 +76,7 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`11`](../src/modernbb/memberlist_body.tpl#L11)
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`36`](../src/modernbb/merge_body.tpl#L36)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`179`](../src/modernbb/posting_body.tpl#L179), [`181`](../src/modernbb/posting_body.tpl#L181)
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`12`](../src/modernbb/posting_confirm_code.tpl#L12)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`7`](../src/modernbb/posting_confirm_code.tpl#L7)
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`434`](../src/modernbb/profile_add_body.tpl#L434)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`20`](../src/modernbb/profile_send_pass.tpl#L20)
 
@@ -91,7 +91,7 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`53`](../src/punbb/memberlist_body.tpl#L53)
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`54`](../src/punbb/merge_body.tpl#L54)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`210`](../src/punbb/posting_body.tpl#L210)
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`13`](../src/punbb/posting_confirm_code.tpl#L13)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`7`](../src/punbb/posting_confirm_code.tpl#L7)
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`447`](../src/punbb/profile_add_body.tpl#L447)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`43`](../src/punbb/profile_send_pass.tpl#L43)
 
@@ -106,7 +106,7 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`43`](../src/invision/memberlist_body.tpl#L43)
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`36`](../src/invision/merge_body.tpl#L36)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`361`](../src/invision/posting_body.tpl#L361)
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`14`](../src/invision/posting_confirm_code.tpl#L14)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`8`](../src/invision/posting_confirm_code.tpl#L8)
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`513`](../src/invision/profile_add_body.tpl#L513)
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`54`](../src/invision/profile_edit_signature.tpl#L54)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`47`](../src/invision/profile_send_pass.tpl#L47)
@@ -115,6 +115,6 @@ Chaîne de texte.
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes 
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`11`](../src/mobile/posting_body.tpl#L11)
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`13`](../src/mobile/posting_confirm_code.tpl#L13)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`7`](../src/mobile/posting_confirm_code.tpl#L7)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`8`](../src/mobile/profile_send_pass.tpl#L8)
 

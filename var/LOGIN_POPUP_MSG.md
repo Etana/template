@@ -25,5 +25,5 @@ Message du popup de connexion défini dans `PA > Général > Forum | Configurati
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`229`](../src/punbb/overall_header.tpl#L229)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`232`](../src/invision/overall_header.tpl#L232)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`231`](../src/invision/overall_header.tpl#L231)
 

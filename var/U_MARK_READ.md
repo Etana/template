@@ -17,7 +17,7 @@ Lien vers marquer tous les forums comme lus. Prends l'URL en cours et ajoute `?m
 
 ### Version AwesomeBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`21`](../src/awesomebb/index_box.tpl#L21)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`33`](../src/awesomebb/viewforum_body.tpl#L33), [`52`](../src/awesomebb/viewforum_body.tpl#L52)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`63`](../src/awesomebb/viewforum_body.tpl#L63), [`82`](../src/awesomebb/viewforum_body.tpl#L82)
 
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`8`](../src/prosilver/index_box.tpl#L8)

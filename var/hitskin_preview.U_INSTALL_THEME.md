@@ -27,5 +27,5 @@ Lien pour installer le thème prévisualisé.
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`217`](../src/punbb/overall_header.tpl#L217)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`219`](../src/invision/overall_header.tpl#L219)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`218`](../src/invision/overall_header.tpl#L218)
 

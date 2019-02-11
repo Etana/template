@@ -65,7 +65,7 @@ Adresse URL du dossier dans lesquel se trouvent les fichiers script généraux d
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`2`](../src/punbb/viewtopic_body.tpl#L2)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`24`](../src/invision/overall_header.tpl#L24), [`28`](../src/invision/overall_header.tpl#L28), [`85`](../src/invision/overall_header.tpl#L85)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`24`](../src/invision/overall_header.tpl#L24), [`28`](../src/invision/overall_header.tpl#L28), [`84`](../src/invision/overall_header.tpl#L84)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`1`](../src/invision/posting_body.tpl#L1)
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`10`](../src/invision/posting_smilies_frame.tpl#L10)
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`9`](../src/invision/posting_smilies_wysiwyg.tpl#L9)
