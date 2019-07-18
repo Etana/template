@@ -28,6 +28,6 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`121`](../src/invision/viewcomments_body.tpl#L121)[`<->`](../src/invision/viewcomments_body.tpl#L121-L146)[`146`](../src/invision/viewcomments_body.tpl#L146)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`123`](../src/invision/viewcomments_body.tpl#L123)[`<->`](../src/invision/viewcomments_body.tpl#L123-L148)[`148`](../src/invision/viewcomments_body.tpl#L148)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`127`](../src/invision/viewtopic_body.tpl#L127)[`<->`](../src/invision/viewtopic_body.tpl#L127-L152)[`152`](../src/invision/viewtopic_body.tpl#L152)
 

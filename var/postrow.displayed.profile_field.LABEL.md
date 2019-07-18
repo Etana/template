@@ -19,25 +19,25 @@
 ## Utilisations dans les templates
 
 ### Version AwesomeBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`271`](../src/awesomebb/viewtopic_body.tpl#L271)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`273`](../src/awesomebb/viewtopic_body.tpl#L273)
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`235`](../src/prosilver/viewcomments_body.tpl#L235)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`237`](../src/prosilver/viewcomments_body.tpl#L237)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`229`](../src/prosilver/viewtopic_body.tpl#L229)
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`138`](../src/subsilver/viewcomments_body.tpl#L138)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`140`](../src/subsilver/viewcomments_body.tpl#L140)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`141`](../src/subsilver/viewtopic_body.tpl#L141)
 
 ### Version ModernBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`125`](../src/modernbb/viewcomments_body.tpl#L125)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`127`](../src/modernbb/viewcomments_body.tpl#L127)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`133`](../src/modernbb/viewtopic_body.tpl#L133)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`161`](../src/punbb/viewcomments_body.tpl#L161)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`163`](../src/punbb/viewcomments_body.tpl#L163)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`154`](../src/punbb/viewtopic_body.tpl#L154)
 
 ### Version Invision
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`160`](../src/invision/viewcomments_body.tpl#L160)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`162`](../src/invision/viewcomments_body.tpl#L162)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`164`](../src/invision/viewtopic_body.tpl#L164)
 

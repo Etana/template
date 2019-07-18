@@ -17,15 +17,15 @@
 ## Utilisations dans les templates
 
 ### Version AwesomeBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`101`](../src/awesomebb/viewcomments_body.tpl#L101)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`115`](../src/awesomebb/viewtopic_body.tpl#L115)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`103`](../src/awesomebb/viewcomments_body.tpl#L103)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`117`](../src/awesomebb/viewtopic_body.tpl#L117)
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`120`](../src/prosilver/viewcomments_body.tpl#L120)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`122`](../src/prosilver/viewcomments_body.tpl#L122)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`128`](../src/prosilver/viewtopic_body.tpl#L128)
 
 ### Version ModernBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`109`](../src/modernbb/viewcomments_body.tpl#L109)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`111`](../src/modernbb/viewcomments_body.tpl#L111)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`115`](../src/modernbb/viewtopic_body.tpl#L115)
 
 ### Version Version mobile

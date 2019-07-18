@@ -17,10 +17,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`256`](../src/subsilver/viewcomments_body.tpl#L256)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`258`](../src/subsilver/viewcomments_body.tpl#L258)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`253`](../src/subsilver/viewtopic_body.tpl#L253)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`159`](../src/punbb/viewcomments_body.tpl#L159)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`161`](../src/punbb/viewcomments_body.tpl#L161)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`152`](../src/punbb/viewtopic_body.tpl#L152)
 

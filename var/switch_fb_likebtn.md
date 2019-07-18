@@ -19,7 +19,7 @@ Boucle cachée, ce qui se trouve à l'intérieur n'est pas visible.
 
 ### Version AwesomeBB
 * __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`62`](../src/awesomebb/viewcomments_body.tpl#L62)[`<->`](../src/awesomebb/viewcomments_body.tpl#L62-L71)[`71`](../src/awesomebb/viewcomments_body.tpl#L71)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`88`](../src/awesomebb/viewtopic_body.tpl#L88)[`<->`](../src/awesomebb/viewtopic_body.tpl#L88-L97)[`97`](../src/awesomebb/viewtopic_body.tpl#L97)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`90`](../src/awesomebb/viewtopic_body.tpl#L90)[`<->`](../src/awesomebb/viewtopic_body.tpl#L90-L99)[`99`](../src/awesomebb/viewtopic_body.tpl#L99)
 
 ### Version phpBB3
 * __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`67`](../src/prosilver/viewcomments_body.tpl#L67)[`<->`](../src/prosilver/viewcomments_body.tpl#L67-L76)[`76`](../src/prosilver/viewcomments_body.tpl#L76)
@@ -35,7 +35,7 @@ Boucle cachée, ce qui se trouve à l'intérieur n'est pas visible.
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`70`](../src/modernbb/viewtopic_body.tpl#L70)[`<->`](../src/modernbb/viewtopic_body.tpl#L70-L79)[`79`](../src/modernbb/viewtopic_body.tpl#L79)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`83`](../src/punbb/viewcomments_body.tpl#L83)[`<->`](../src/punbb/viewcomments_body.tpl#L83-L92)[`92`](../src/punbb/viewcomments_body.tpl#L92)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`85`](../src/punbb/viewcomments_body.tpl#L85)[`<->`](../src/punbb/viewcomments_body.tpl#L85-L94)[`94`](../src/punbb/viewcomments_body.tpl#L94)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`84`](../src/punbb/viewtopic_body.tpl#L84)[`<->`](../src/punbb/viewtopic_body.tpl#L84-L93)[`93`](../src/punbb/viewtopic_body.tpl#L93)
 
 ### Version Invision

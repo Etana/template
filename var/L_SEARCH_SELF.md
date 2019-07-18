@@ -71,7 +71,7 @@ Chaîne de caractère.
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`6`](../src/punbb/search_body.tpl#L6)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`6`](../src/punbb/search_results_posts.tpl#L6)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`5`](../src/punbb/search_results_topics.tpl#L5)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`57`](../src/punbb/viewcomments_body.tpl#L57)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`59`](../src/punbb/viewcomments_body.tpl#L59)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`17`](../src/punbb/viewforum_body.tpl#L17)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`15`](../src/punbb/viewonline_body.tpl#L15)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`58`](../src/punbb/viewtopic_body.tpl#L58)

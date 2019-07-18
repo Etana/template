@@ -136,7 +136,7 @@ Texte avec la date de la dernière visite du membre.
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`8`](../src/punbb/search_body.tpl#L8)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`8`](../src/punbb/search_results_posts.tpl#L8)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`7`](../src/punbb/search_results_topics.tpl#L7)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`62`](../src/punbb/viewcomments_body.tpl#L62)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`64`](../src/punbb/viewcomments_body.tpl#L64)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`20`](../src/punbb/viewforum_body.tpl#L20)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`18`](../src/punbb/viewonline_body.tpl#L18)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`63`](../src/punbb/viewtopic_body.tpl#L63)

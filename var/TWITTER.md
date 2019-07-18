@@ -14,7 +14,7 @@
 
 ### Version AwesomeBB
 * __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`57`](../src/awesomebb/viewcomments_body.tpl#L57)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`83`](../src/awesomebb/viewtopic_body.tpl#L83)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`85`](../src/awesomebb/viewtopic_body.tpl#L85)
 
 ### Version phpBB3
 * __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`62`](../src/prosilver/viewcomments_body.tpl#L62)
@@ -29,7 +29,7 @@
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`65`](../src/modernbb/viewtopic_body.tpl#L65)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`79`](../src/punbb/viewcomments_body.tpl#L79)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`81`](../src/punbb/viewcomments_body.tpl#L81)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`80`](../src/punbb/viewtopic_body.tpl#L80)
 
 ### Version Invision

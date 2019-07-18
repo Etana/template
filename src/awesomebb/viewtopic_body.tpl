@@ -66,6 +66,7 @@
 
     <div class="topic-actions">
         <div class="topic-actions-buttons">
+            <!-- BEGIN switch_plus_menu -->
             <div class="plus-menu-wrap">
                 <script type="text/javascript">//<![CDATA[
                     var url_favourite = '{U_FAVOURITE_JS_PLUS_MENU}';
@@ -77,6 +78,7 @@
                     //]]>
                 </script>
             </div>
+            <!-- END switch_plus_menu -->
 
             <!-- BEGIN switch_twitter_btn -->
             <span>

@@ -15,10 +15,10 @@
             {topics_blog_box.row.FIRST_POST_TEXT}
         </div>
         <div class="block-footer">
-            {topics_blog_box.row.TOPIC_AUTHOR} {topics_blog_box.row.LAST_POST_TIME}
+            {L_TOPIC_BY} : {topics_blog_box.row.TOPIC_AUTHOR}
             <br />
             <a class="block-blogrow-comments" href="{topics_blog_box.row.U_VIEW_TOPIC}#comments">
-                {L_COMMENTS}: {topics_blog_box.row.REPLIES}
+                {L_COMMENTS} : {topics_blog_box.row.REPLIES}
             </a>
             <span class="block-blogrow-views">{L_VIEWS}: {topics_blog_box.row.VIEWS}</span>
         </div>

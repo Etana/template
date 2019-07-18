@@ -10,6 +10,18 @@
         <div class="application_footer_spacer"></div>
     </main>
 </div>
+<script src="{JS_DIR}{L_LANG}.js" type="text/javascript"></script>
+<!-- BEGIN switch_fb_login -->
+<script src="https://connect.facebook.net/{switch_fb_login.FB_LOCAL}/all.js" type="text/javascript"></script>
+<script src="{switch_fb_login.JS_FB_LOGIN}" type="text/javascript"></script>
+<!-- END switch_fb_login -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@11.0.2/dist/lazyload.min.js"></script>
+<script type="text/javascript">
+    var lazyLoadInstance = new LazyLoad({
+        elements_selector: ".memberlist-avatar img, .forum-avatar img, .post-content img, .post-icon img",
+        threshold: 0
+    });
+</script>
 <script type="text/javascript">
     //<![CDATA[
     fa_endpage();

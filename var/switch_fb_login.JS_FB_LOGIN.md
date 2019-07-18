@@ -1,6 +1,6 @@
 # switch_fb_login.JS_FB_LOGIN
 * __Type__ __:__ sous-variable d'affichage
-* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
+* __Utilisable dans__ __:__ [`overall_footer`](../tpl/overall_footer.md#readme), [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -35,5 +35,5 @@ Contient le script de Facebook Connect si celui-ci est activé dans `PA > Module
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`33`](../src/invision/overall_header.tpl#L33)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`22`](../src/mobile/overall_header.tpl#L22), [`46`](../src/mobile/overall_header.tpl#L46)
+* __[`overall_footer`](../tpl/overall_footer.md#readme)__ __:__ lignes [`16`](../src/mobile/overall_footer.tpl#L16)
 

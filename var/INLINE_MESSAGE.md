@@ -14,7 +14,7 @@
 
 ### Version AwesomeBB
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`5`](../src/awesomebb/profile_send_pass.tpl#L5)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`339`](../src/awesomebb/viewtopic_body.tpl#L339)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`341`](../src/awesomebb/viewtopic_body.tpl#L341)
 
 ### Version Version mobile
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`1`](../src/mobile/posting_body.tpl#L1)

@@ -50,5 +50,5 @@ contenu sur lequel on boucle
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`41`](../src/invision/overall_footer_end.tpl#L41)[`<->`](../src/invision/overall_footer_end.tpl#L41-L84)[`84`](../src/invision/overall_footer_end.tpl#L84)
 
 ### Version Version mobile
-* __[`overall_footer`](../tpl/overall_footer.md#readme)__ __:__ lignes [`268`](../src/mobile/overall_footer.tpl#L268)[`<->`](../src/mobile/overall_footer.tpl#L268-L308)[`308`](../src/mobile/overall_footer.tpl#L308)
+* __[`overall_footer`](../tpl/overall_footer.md#readme)__ __:__ lignes [`280`](../src/mobile/overall_footer.tpl#L280)[`<->`](../src/mobile/overall_footer.tpl#L280-L320)[`320`](../src/mobile/overall_footer.tpl#L320)
 

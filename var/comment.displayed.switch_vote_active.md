@@ -32,17 +32,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`350`](../src/prosilver/viewcomments_body.tpl#L350)[`<->`](../src/prosilver/viewcomments_body.tpl#L350-L376)[`376`](../src/prosilver/viewcomments_body.tpl#L376)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`352`](../src/prosilver/viewcomments_body.tpl#L352)[`<->`](../src/prosilver/viewcomments_body.tpl#L352-L378)[`378`](../src/prosilver/viewcomments_body.tpl#L378)
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`420`](../src/subsilver/viewcomments_body.tpl#L420)[`<->`](../src/subsilver/viewcomments_body.tpl#L420-L446)[`446`](../src/subsilver/viewcomments_body.tpl#L446)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`422`](../src/subsilver/viewcomments_body.tpl#L422)[`<->`](../src/subsilver/viewcomments_body.tpl#L422-L448)[`448`](../src/subsilver/viewcomments_body.tpl#L448)
 
 ### Version ModernBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`375`](../src/modernbb/viewcomments_body.tpl#L375)[`<->`](../src/modernbb/viewcomments_body.tpl#L375-L407)[`407`](../src/modernbb/viewcomments_body.tpl#L407)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`377`](../src/modernbb/viewcomments_body.tpl#L377)[`<->`](../src/modernbb/viewcomments_body.tpl#L377-L409)[`409`](../src/modernbb/viewcomments_body.tpl#L409)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`340`](../src/punbb/viewcomments_body.tpl#L340)[`<->`](../src/punbb/viewcomments_body.tpl#L340-L366)[`366`](../src/punbb/viewcomments_body.tpl#L366)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`342`](../src/punbb/viewcomments_body.tpl#L342)[`<->`](../src/punbb/viewcomments_body.tpl#L342-L368)[`368`](../src/punbb/viewcomments_body.tpl#L368)
 
 ### Version Invision
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`367`](../src/invision/viewcomments_body.tpl#L367)[`<->`](../src/invision/viewcomments_body.tpl#L367-L393)[`393`](../src/invision/viewcomments_body.tpl#L393)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`369`](../src/invision/viewcomments_body.tpl#L369)[`<->`](../src/invision/viewcomments_body.tpl#L369-L395)[`395`](../src/invision/viewcomments_body.tpl#L395)
 

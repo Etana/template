@@ -56,7 +56,7 @@ contenu sur lequel on boucle
 
 ### Version phpBB2
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`1`](../src/subsilver/mod_news.tpl#L1)[`<->`](../src/subsilver/mod_news.tpl#L1-L67)[`67`](../src/subsilver/mod_news.tpl#L67)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`355`](../src/subsilver/viewcomments_body.tpl#L355)[`<->`](../src/subsilver/viewcomments_body.tpl#L355-L386)[`386`](../src/subsilver/viewcomments_body.tpl#L386)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`357`](../src/subsilver/viewcomments_body.tpl#L357)[`<->`](../src/subsilver/viewcomments_body.tpl#L357-L388)[`388`](../src/subsilver/viewcomments_body.tpl#L388)
 
 ### Version ModernBB
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`1`](../src/modernbb/mod_news.tpl#L1)[`<->`](../src/modernbb/mod_news.tpl#L1-L54)[`54`](../src/modernbb/mod_news.tpl#L54)

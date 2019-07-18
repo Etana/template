@@ -13,18 +13,18 @@ Remplacé par les icônes de modération d'un sujet
 ## Utilisations dans les templates
 
 ### Version AwesomeBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`396`](../src/awesomebb/viewcomments_body.tpl#L396)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`359`](../src/awesomebb/viewtopic_body.tpl#L359)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`398`](../src/awesomebb/viewcomments_body.tpl#L398)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`361`](../src/awesomebb/viewtopic_body.tpl#L361)
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`502`](../src/prosilver/viewcomments_body.tpl#L502)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`504`](../src/prosilver/viewcomments_body.tpl#L504)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`359`](../src/prosilver/viewtopic_body.tpl#L359)
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`636`](../src/subsilver/viewcomments_body.tpl#L636)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`638`](../src/subsilver/viewcomments_body.tpl#L638)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`474`](../src/subsilver/viewtopic_body.tpl#L474)
 
 ### Version ModernBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`515`](../src/modernbb/viewcomments_body.tpl#L515)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`517`](../src/modernbb/viewcomments_body.tpl#L517)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`371`](../src/modernbb/viewtopic_body.tpl#L371)
 

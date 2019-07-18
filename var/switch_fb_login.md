@@ -1,6 +1,6 @@
 # switch_fb_login
 * __Type__ __:__ variable de bouclage
-* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
+* __Utilisable dans__ __:__ [`overall_footer`](../tpl/overall_footer.md#readme), [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -38,5 +38,5 @@ Boucle s'affichant si vous avez activé Facebook Connect dans `PA > Modules > Fa
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`31`](../src/invision/overall_header.tpl#L31)[`<->`](../src/invision/overall_header.tpl#L31-L34)[`34`](../src/invision/overall_header.tpl#L34)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/mobile/overall_header.tpl#L20)[`<->`](../src/mobile/overall_header.tpl#L20-L23)[`23`](../src/mobile/overall_header.tpl#L23), [`44`](../src/mobile/overall_header.tpl#L44)[`<->`](../src/mobile/overall_header.tpl#L44-L47)[`47`](../src/mobile/overall_header.tpl#L47)
+* __[`overall_footer`](../tpl/overall_footer.md#readme)__ __:__ lignes [`14`](../src/mobile/overall_footer.tpl#L14)[`<->`](../src/mobile/overall_footer.tpl#L14-L17)[`17`](../src/mobile/overall_footer.tpl#L17)
 

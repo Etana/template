@@ -24,25 +24,25 @@
 ## Utilisations dans les templates
 
 ### Version AwesomeBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`246`](../src/awesomebb/viewtopic_body.tpl#L246)[`<->`](../src/awesomebb/viewtopic_body.tpl#L246-L248)[`248`](../src/awesomebb/viewtopic_body.tpl#L248)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`248`](../src/awesomebb/viewtopic_body.tpl#L248)[`<->`](../src/awesomebb/viewtopic_body.tpl#L248-L250)[`250`](../src/awesomebb/viewtopic_body.tpl#L250)
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`169`](../src/prosilver/viewcomments_body.tpl#L169)[`<->`](../src/prosilver/viewcomments_body.tpl#L169-L171)[`171`](../src/prosilver/viewcomments_body.tpl#L171)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`171`](../src/prosilver/viewcomments_body.tpl#L171)[`<->`](../src/prosilver/viewcomments_body.tpl#L171-L173)[`173`](../src/prosilver/viewcomments_body.tpl#L173)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`165`](../src/prosilver/viewtopic_body.tpl#L165)[`<->`](../src/prosilver/viewtopic_body.tpl#L165-L167)[`167`](../src/prosilver/viewtopic_body.tpl#L167)
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`184`](../src/subsilver/viewcomments_body.tpl#L184)[`<->`](../src/subsilver/viewcomments_body.tpl#L184-L186)[`186`](../src/subsilver/viewcomments_body.tpl#L186)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`186`](../src/subsilver/viewcomments_body.tpl#L186)[`<->`](../src/subsilver/viewcomments_body.tpl#L186-L188)[`188`](../src/subsilver/viewcomments_body.tpl#L188)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`180`](../src/subsilver/viewtopic_body.tpl#L180)[`<->`](../src/subsilver/viewtopic_body.tpl#L180-L182)[`182`](../src/subsilver/viewtopic_body.tpl#L182)
 
 ### Version ModernBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`217`](../src/modernbb/viewcomments_body.tpl#L217)[`<->`](../src/modernbb/viewcomments_body.tpl#L217-L219)[`219`](../src/modernbb/viewcomments_body.tpl#L219)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`219`](../src/modernbb/viewcomments_body.tpl#L219)[`<->`](../src/modernbb/viewcomments_body.tpl#L219-L221)[`221`](../src/modernbb/viewcomments_body.tpl#L221)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`220`](../src/modernbb/viewtopic_body.tpl#L220)[`<->`](../src/modernbb/viewtopic_body.tpl#L220-L222)[`222`](../src/modernbb/viewtopic_body.tpl#L222)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`187`](../src/punbb/viewcomments_body.tpl#L187)[`<->`](../src/punbb/viewcomments_body.tpl#L187-L189)[`189`](../src/punbb/viewcomments_body.tpl#L189)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`189`](../src/punbb/viewcomments_body.tpl#L189)[`<->`](../src/punbb/viewcomments_body.tpl#L189-L191)[`191`](../src/punbb/viewcomments_body.tpl#L191)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`180`](../src/punbb/viewtopic_body.tpl#L180)[`<->`](../src/punbb/viewtopic_body.tpl#L180-L182)[`182`](../src/punbb/viewtopic_body.tpl#L182)
 
 ### Version Invision
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`203`](../src/invision/viewcomments_body.tpl#L203)[`<->`](../src/invision/viewcomments_body.tpl#L203-L205)[`205`](../src/invision/viewcomments_body.tpl#L205)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`205`](../src/invision/viewcomments_body.tpl#L205)[`<->`](../src/invision/viewcomments_body.tpl#L205-L207)[`207`](../src/invision/viewcomments_body.tpl#L207)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`200`](../src/invision/viewtopic_body.tpl#L200)[`<->`](../src/invision/viewtopic_body.tpl#L200-L202)[`202`](../src/invision/viewtopic_body.tpl#L202)
 

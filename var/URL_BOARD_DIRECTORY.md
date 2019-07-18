@@ -34,5 +34,5 @@ Lien vers l'annuaire des forums dans la langue du forum.
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`21`](../src/invision/overall_header.tpl#L21)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`17`](../src/mobile/overall_header.tpl#L17)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`15`](../src/mobile/overall_header.tpl#L15)
 

@@ -36,7 +36,7 @@ Affiche le fil d’Ariane.
 * __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`6`](../src/prosilver/modcp_body.tpl#L6)
 * __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`6`](../src/prosilver/modcp_move.tpl#L6)
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`6`](../src/prosilver/modcp_split.tpl#L6)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`56`](../src/prosilver/viewcomments_body.tpl#L56), [`477`](../src/prosilver/viewcomments_body.tpl#L477)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`56`](../src/prosilver/viewcomments_body.tpl#L56), [`479`](../src/prosilver/viewcomments_body.tpl#L479)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`42`](../src/prosilver/viewforum_body.tpl#L42)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`61`](../src/prosilver/viewtopic_body.tpl#L61), [`335`](../src/prosilver/viewtopic_body.tpl#L335)
 
@@ -101,7 +101,7 @@ Affiche le fil d’Ariane.
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`19`](../src/punbb/search_body.tpl#L19)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`19`](../src/punbb/search_results_posts.tpl#L19)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`18`](../src/punbb/search_results_topics.tpl#L18)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`73`](../src/punbb/viewcomments_body.tpl#L73), [`474`](../src/punbb/viewcomments_body.tpl#L474)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`75`](../src/punbb/viewcomments_body.tpl#L75), [`476`](../src/punbb/viewcomments_body.tpl#L476)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`50`](../src/punbb/viewforum_body.tpl#L50)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`74`](../src/punbb/viewtopic_body.tpl#L74), [`303`](../src/punbb/viewtopic_body.tpl#L303)
 
@@ -138,5 +138,5 @@ Affiche le fil d’Ariane.
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`43`](../src/invision/viewtopic_body.tpl#L43)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`54`](../src/mobile/overall_header.tpl#L54)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`432`](../src/mobile/overall_header.tpl#L432)
 

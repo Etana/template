@@ -13,6 +13,6 @@ Attribue une valeur à colspan.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`532`](../src/subsilver/viewcomments_body.tpl#L532)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`534`](../src/subsilver/viewcomments_body.tpl#L534)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`296`](../src/subsilver/viewtopic_body.tpl#L296)
 

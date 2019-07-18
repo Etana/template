@@ -75,7 +75,7 @@ showHiddenMessage = function(id)
 			}(document, 'script', 'facebook-jssdk'));</script>	
 			<div class="fb-like" data-href="{FORUM_URL}{TOPIC_URL}" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
 			<!-- END switch_fb_likebtn -->
-			
+
 			<span class="gensmall bold">
 				<a class="addthis_button" href="#">{L_SHARE}</a>
 				<!-- BEGIN switch_plus_menu -->

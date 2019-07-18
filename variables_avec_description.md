@@ -349,6 +349,7 @@
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_URL}`](var/postrow.displayed.POST_URL.md#readme)
 * [`{PRIVATE_MESSAGE_INFO}`](var/PRIVATE_MESSAGE_INFO.md#readme)
 * [`{PRIVATE_MESSAGE_INFO_UNREAD}`](var/PRIVATE_MESSAGE_INFO_UNREAD.md#readme)
+* [`{PRIVATE_MSG}`](var/PRIVATE_MSG.md#readme)
 * [`{RECORD_USERS}`](var/RECORD_USERS.md#readme)
 * [`{REGISTRATION}`](var/REGISTRATION.md#readme)
 * [`{REPLY_IMG}`](var/REPLY_IMG.md#readme)

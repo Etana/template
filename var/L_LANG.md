@@ -1,6 +1,6 @@
 # L_LANG
 * __Type__ __:__ variable d'affichage globale
-* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme), [`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme), [`simple_header`](../tpl/simple_header.md#readme)
+* __Utilisable dans__ __:__ [`overall_footer`](../tpl/overall_footer.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme), [`simple_header`](../tpl/simple_header.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -54,5 +54,5 @@ Chaîne de texte qui permet de définir un code JavaScript selon la langue de vo
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`12`](../src/invision/simple_header.tpl#L12)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`19`](../src/mobile/overall_header.tpl#L19)
+* __[`overall_footer`](../tpl/overall_footer.md#readme)__ __:__ lignes [`13`](../src/mobile/overall_footer.tpl#L13)
 

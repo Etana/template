@@ -30,7 +30,7 @@ contenu sur lequel on boucle
 
 ### Version phpBB2
 * __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`116`](../src/subsilver/album_index_body.tpl#L116)[`<->`](../src/subsilver/album_index_body.tpl#L116-L120)[`120`](../src/subsilver/album_index_body.tpl#L120)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`614`](../src/subsilver/viewcomments_body.tpl#L614)[`<->`](../src/subsilver/viewcomments_body.tpl#L614-L621)[`621`](../src/subsilver/viewcomments_body.tpl#L621)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`616`](../src/subsilver/viewcomments_body.tpl#L616)[`<->`](../src/subsilver/viewcomments_body.tpl#L616-L623)[`623`](../src/subsilver/viewcomments_body.tpl#L623)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`452`](../src/subsilver/viewtopic_body.tpl#L452)[`<->`](../src/subsilver/viewtopic_body.tpl#L452-L459)[`459`](../src/subsilver/viewtopic_body.tpl#L459)
 
 ### Version ModernBB

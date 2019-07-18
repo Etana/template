@@ -87,6 +87,7 @@ showHiddenMessage = function(id)
 		<h1>{TOPIC_TITLE}</h1>
 		<div id="topicmenu-options" class="popmenubutton">
             <a class="addthis_button" href="#">{L_SHARE}</a>
+			<!-- BEGIN switch_plus_menu -->
 			<script type="text/javascript">//<![CDATA[
 				var url_favourite = '{U_FAVOURITE_JS_PLUS_MENU}';
 				var url_newposts = '{U_NEWPOSTS_JS_PLUS_MENU}';
@@ -96,6 +97,7 @@ showHiddenMessage = function(id)
 				insert_plus_menu_new('f{FORUM_ID}&amp;t={TOPIC_ID}','{JS_SESSION_ID}', {JS_AUTH_FAVOURITES}, '{JS_WATCH_TOPIC}');
 			//]]>
 			</script>
+			<!-- END switch_plus_menu -->
 		</div>
 	</div>
 	{POLL_DISPLAY}

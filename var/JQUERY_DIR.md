@@ -46,5 +46,5 @@ URL du dossier dans lesquel se trouvent les fichiers script et css relatifs à j
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`372`](../src/invision/posting_body.tpl#L372)
 
 ### Version Version mobile
-* __[`overall_footer`](../tpl/overall_footer.md#readme)__ __:__ lignes [`18`](../src/mobile/overall_footer.tpl#L18)
+* __[`overall_footer`](../tpl/overall_footer.md#readme)__ __:__ lignes [`30`](../src/mobile/overall_footer.tpl#L30)
 

@@ -59,7 +59,7 @@ Chaîne de texte.
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`13`](../src/punbb/search_body.tpl#L13)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`13`](../src/punbb/search_results_posts.tpl#L13)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`12`](../src/punbb/search_results_topics.tpl#L12)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`67`](../src/punbb/viewcomments_body.tpl#L67)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`69`](../src/punbb/viewcomments_body.tpl#L69)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`25`](../src/punbb/viewforum_body.tpl#L25)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`23`](../src/punbb/viewonline_body.tpl#L23)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`68`](../src/punbb/viewtopic_body.tpl#L68)

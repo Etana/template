@@ -1,6 +1,6 @@
 <div class="module main">
 	<!-- BEGIN switch_login -->
-	<div class="main-head"><h1 class="page-title">{L_LOGIN}</h1></div>
+	<div class="main-head"><div class="h3">{L_LOGIN}</div></div>
 	<div class="main-content">
 	<form action="{S_LOGIN_ACTION}" method="post">
 	<fieldset class="frm-set login">
@@ -41,7 +41,7 @@
 	<!-- END switch_login -->
 
 	<!-- BEGIN switch_login_small -->
-	<div class="main-head"><h1 class="page-title">{L_LOGIN}</h1></div>
+	<div class="main-head"><div class="h3">{L_LOGIN}</div></div>
 	<div class="main-content">
 	<form action="{S_LOGIN_ACTION}" method="post">
 
@@ -74,7 +74,7 @@
 
         
 	<!-- BEGIN switch_profile -->
-	<div class="main-head"><h3>{USERNAME}</h3></div>
+	<div class="main-head"><div class="h3">{USERNAME}</div></div>
 	<div class="main-content clearfix details">
 	<div class="left">
 		{USERNAME_AVATAR}

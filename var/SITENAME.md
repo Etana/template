@@ -39,5 +39,5 @@ Contient la valeur spécifiée pour `Nom du site` dans [`Index`](http://votre-fo
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`5`](../src/invision/simple_header.tpl#L5)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`16`](../src/mobile/overall_header.tpl#L16)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`14`](../src/mobile/overall_header.tpl#L14)
 

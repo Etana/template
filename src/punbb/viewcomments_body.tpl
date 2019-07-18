@@ -41,6 +41,7 @@ showHiddenMessage = function(id)
 <!-- BEGIN switch_user_logged_in -->
 <div id="pun-visit" class="clearfix">
 	<ul>
+		<!-- BEGIN switch_plus_menu -->
 		<li>
 			<script type="text/javascript">//<![CDATA[
 				var url_favourite = '{U_FAVOURITE_JS_PLUS_MENU}';
@@ -51,13 +52,14 @@ showHiddenMessage = function(id)
 				insert_plus_menu_new('f{FORUM_ID}&amp;t={TOPIC_ID}','{JS_SESSION_ID}', {JS_AUTH_FAVOURITES});
 			//]]>
 			</script>
-			</li>
+		</li>
+		<!-- END switch_plus_menu -->
 		<li><a class="addthis_button" href="#">{L_SHARE}</a></li>
-			<li><a href="{U_SEARCH_NEW}">{L_SEARCH_NEW}</a></li>
-			<li><a href="{U_SEARCH_SELF}">{L_SEARCH_SELF}</a></li>
-			<!-- BEGIN watchtopic -->
-			<li>{S_WATCH_TOPIC}</li>
-			<!-- END watchtopic -->
+		<li><a href="{U_SEARCH_NEW}">{L_SEARCH_NEW}</a></li>
+		<li><a href="{U_SEARCH_SELF}">{L_SEARCH_SELF}</a></li>
+		<!-- BEGIN watchtopic -->
+		<li>{S_WATCH_TOPIC}</li>
+		<!-- END watchtopic -->
 	</ul>
 	<p>{LOGGED_AS}. {LAST_VISIT_DATE}</p>
 </div>

@@ -26,6 +26,6 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`134`](../src/invision/viewcomments_body.tpl#L134)[`<->`](../src/invision/viewcomments_body.tpl#L134-L140)[`140`](../src/invision/viewcomments_body.tpl#L140)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`136`](../src/invision/viewcomments_body.tpl#L136)[`<->`](../src/invision/viewcomments_body.tpl#L136-L142)[`142`](../src/invision/viewcomments_body.tpl#L142)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`140`](../src/invision/viewtopic_body.tpl#L140)[`<->`](../src/invision/viewtopic_body.tpl#L140-L146)[`146`](../src/invision/viewtopic_body.tpl#L146)
 

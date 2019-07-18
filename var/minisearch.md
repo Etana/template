@@ -18,6 +18,6 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`461`](../src/invision/viewcomments_body.tpl#L461)[`<->`](../src/invision/viewcomments_body.tpl#L461-L473)[`473`](../src/invision/viewcomments_body.tpl#L473)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`463`](../src/invision/viewcomments_body.tpl#L463)[`<->`](../src/invision/viewcomments_body.tpl#L463-L475)[`475`](../src/invision/viewcomments_body.tpl#L475)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`278`](../src/invision/viewtopic_body.tpl#L278)[`<->`](../src/invision/viewtopic_body.tpl#L278-L290)[`290`](../src/invision/viewtopic_body.tpl#L290)
 

@@ -19,17 +19,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`357`](../src/prosilver/viewcomments_body.tpl#L357), [`369`](../src/prosilver/viewcomments_body.tpl#L369)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`359`](../src/prosilver/viewcomments_body.tpl#L359), [`371`](../src/prosilver/viewcomments_body.tpl#L371)
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`427`](../src/subsilver/viewcomments_body.tpl#L427), [`439`](../src/subsilver/viewcomments_body.tpl#L439)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`429`](../src/subsilver/viewcomments_body.tpl#L429), [`441`](../src/subsilver/viewcomments_body.tpl#L441)
 
 ### Version ModernBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`386`](../src/modernbb/viewcomments_body.tpl#L386), [`388`](../src/modernbb/viewcomments_body.tpl#L388), [`404`](../src/modernbb/viewcomments_body.tpl#L404)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`388`](../src/modernbb/viewcomments_body.tpl#L388), [`390`](../src/modernbb/viewcomments_body.tpl#L390), [`406`](../src/modernbb/viewcomments_body.tpl#L406)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`347`](../src/punbb/viewcomments_body.tpl#L347), [`359`](../src/punbb/viewcomments_body.tpl#L359)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`349`](../src/punbb/viewcomments_body.tpl#L349), [`361`](../src/punbb/viewcomments_body.tpl#L361)
 
 ### Version Invision
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`374`](../src/invision/viewcomments_body.tpl#L374), [`386`](../src/invision/viewcomments_body.tpl#L386)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`376`](../src/invision/viewcomments_body.tpl#L376), [`388`](../src/invision/viewcomments_body.tpl#L388)
 

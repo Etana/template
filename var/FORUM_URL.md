@@ -14,7 +14,7 @@ Contient l'adresse URL de la page.
 
 ### Version AwesomeBB
 * __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`70`](../src/awesomebb/viewcomments_body.tpl#L70)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`96`](../src/awesomebb/viewtopic_body.tpl#L96)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`98`](../src/awesomebb/viewtopic_body.tpl#L98)
 
 ### Version phpBB3
 * __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`75`](../src/prosilver/viewcomments_body.tpl#L75)
@@ -30,7 +30,7 @@ Contient l'adresse URL de la page.
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`78`](../src/modernbb/viewtopic_body.tpl#L78)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`91`](../src/punbb/viewcomments_body.tpl#L91)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`93`](../src/punbb/viewcomments_body.tpl#L93)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`92`](../src/punbb/viewtopic_body.tpl#L92)
 
 ### Version Invision

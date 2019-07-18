@@ -15,7 +15,7 @@
 ## Utilisations dans les templates
 
 ### Version AwesomeBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`115`](../src/awesomebb/viewtopic_body.tpl#L115), [`116`](../src/awesomebb/viewtopic_body.tpl#L116)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`117`](../src/awesomebb/viewtopic_body.tpl#L117), [`118`](../src/awesomebb/viewtopic_body.tpl#L118)
 
 ### Version phpBB2
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`41`](../src/subsilver/modcp_split.tpl#L41)

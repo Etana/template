@@ -41,5 +41,5 @@ contenu sur lequel on boucle
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`85`](../src/invision/overall_footer_end.tpl#L85)[`<->`](../src/invision/overall_footer_end.tpl#L85-L104)[`104`](../src/invision/overall_footer_end.tpl#L104)
 
 ### Version Version mobile
-* __[`overall_footer`](../tpl/overall_footer.md#readme)__ __:__ lignes [`309`](../src/mobile/overall_footer.tpl#L309)[`<->`](../src/mobile/overall_footer.tpl#L309-L328)[`328`](../src/mobile/overall_footer.tpl#L328)
+* __[`overall_footer`](../tpl/overall_footer.md#readme)__ __:__ lignes [`321`](../src/mobile/overall_footer.tpl#L321)[`<->`](../src/mobile/overall_footer.tpl#L321-L340)[`340`](../src/mobile/overall_footer.tpl#L340)
 

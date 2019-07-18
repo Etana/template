@@ -23,6 +23,6 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`137`](../src/invision/viewcomments_body.tpl#L137)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`139`](../src/invision/viewcomments_body.tpl#L139)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`143`](../src/invision/viewtopic_body.tpl#L143)
 

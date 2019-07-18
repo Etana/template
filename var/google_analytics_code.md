@@ -38,5 +38,5 @@ Boucle d'affiche du code de Google Analytics si celui-ci contient un identifiant
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`189`](../src/invision/overall_header.tpl#L189)[`<->`](../src/invision/overall_header.tpl#L189-L208)[`208`](../src/invision/overall_header.tpl#L208)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`24`](../src/mobile/overall_header.tpl#L24)[`<->`](../src/mobile/overall_header.tpl#L24-L43)[`43`](../src/mobile/overall_header.tpl#L43)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`17`](../src/mobile/overall_header.tpl#L17)[`<->`](../src/mobile/overall_header.tpl#L17-L36)[`36`](../src/mobile/overall_header.tpl#L36)
 

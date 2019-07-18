@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version AwesomeBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`107`](../src/awesomebb/viewtopic_body.tpl#L107)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`109`](../src/awesomebb/viewtopic_body.tpl#L109)
 
 ### Version phpBB3
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`20`](../src/prosilver/posting_topic_review.tpl#L20)
 
 ### Version phpBB2
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`41`](../src/subsilver/posting_topic_review.tpl#L41)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`127`](../src/subsilver/viewcomments_body.tpl#L127)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`129`](../src/subsilver/viewcomments_body.tpl#L129)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`130`](../src/subsilver/viewtopic_body.tpl#L130)
 
 ### Version Invision

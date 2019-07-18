@@ -24,8 +24,8 @@ Chaîne de texte.
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`16`](../src/awesomebb/privmsgs_body.tpl#L16)
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`19`](../src/awesomebb/profile_avatar_gallery.tpl#L19)
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`66`](../src/awesomebb/report_list_body.tpl#L66)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`385`](../src/awesomebb/viewcomments_body.tpl#L385), [`400`](../src/awesomebb/viewcomments_body.tpl#L400)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`348`](../src/awesomebb/viewtopic_body.tpl#L348), [`362`](../src/awesomebb/viewtopic_body.tpl#L362)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`387`](../src/awesomebb/viewcomments_body.tpl#L387), [`402`](../src/awesomebb/viewcomments_body.tpl#L402)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`350`](../src/awesomebb/viewtopic_body.tpl#L350), [`364`](../src/awesomebb/viewtopic_body.tpl#L364)
 
 ### Version phpBB3
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`38`](../src/prosilver/faq_body.tpl#L38)
@@ -39,7 +39,7 @@ Chaîne de texte.
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`28`](../src/prosilver/privmsgs_body.tpl#L28)
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`8`](../src/prosilver/profile_avatar_gallery.tpl#L8)
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`80`](../src/prosilver/report_list_body.tpl#L80)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`489`](../src/prosilver/viewcomments_body.tpl#L489), [`504`](../src/prosilver/viewcomments_body.tpl#L504)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`491`](../src/prosilver/viewcomments_body.tpl#L491), [`506`](../src/prosilver/viewcomments_body.tpl#L506)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`66`](../src/prosilver/viewforum_body.tpl#L66)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`348`](../src/prosilver/viewtopic_body.tpl#L348), [`361`](../src/prosilver/viewtopic_body.tpl#L361)
 
@@ -49,7 +49,7 @@ Chaîne de texte.
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`53`](../src/subsilver/privmsgs_body.tpl#L53)
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`12`](../src/subsilver/profile_avatar_gallery.tpl#L12)
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`58`](../src/subsilver/report_list_body.tpl#L58)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`612`](../src/subsilver/viewcomments_body.tpl#L612), [`636`](../src/subsilver/viewcomments_body.tpl#L636)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`614`](../src/subsilver/viewcomments_body.tpl#L614), [`638`](../src/subsilver/viewcomments_body.tpl#L638)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`90`](../src/subsilver/viewforum_body.tpl#L90)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`450`](../src/subsilver/viewtopic_body.tpl#L450), [`474`](../src/subsilver/viewtopic_body.tpl#L474)
 
@@ -65,7 +65,7 @@ Chaîne de texte.
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`24`](../src/modernbb/privmsgs_body.tpl#L24)
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`8`](../src/modernbb/profile_avatar_gallery.tpl#L8)
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`80`](../src/modernbb/report_list_body.tpl#L80)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`504`](../src/modernbb/viewcomments_body.tpl#L504), [`517`](../src/modernbb/viewcomments_body.tpl#L517)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`506`](../src/modernbb/viewcomments_body.tpl#L506), [`519`](../src/modernbb/viewcomments_body.tpl#L519)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`69`](../src/modernbb/viewforum_body.tpl#L69)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`360`](../src/modernbb/viewtopic_body.tpl#L360), [`373`](../src/modernbb/viewtopic_body.tpl#L373)
 

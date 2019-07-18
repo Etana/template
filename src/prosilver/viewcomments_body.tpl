@@ -80,6 +80,7 @@ showHiddenMessage = function(id)
 		{PAGE_NUMBER}
 		&nbsp;&bull;&nbsp;
         <a class="addthis_button" href="#">{L_SHARE}</a>
+		<!-- BEGIN switch_plus_menu -->
 		&nbsp;&bull;&nbsp;
 		<script type="text/javascript">//<![CDATA[
 			var url_favourite = '{U_FAVOURITE_JS_PLUS_MENU}';
@@ -90,6 +91,7 @@ showHiddenMessage = function(id)
 			insert_plus_menu_new('f{FORUM_ID}&amp;t={TOPIC_ID}','{JS_SESSION_ID}', {JS_AUTH_FAVOURITES});
 		//]]>
 		</script>
+		<!-- END switch_plus_menu -->
 	</div>
 	<div class="clear"></div>
 </div>

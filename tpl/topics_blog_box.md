@@ -18,6 +18,7 @@
 	* [`{L_COMMENTS}`](../var/L_COMMENTS.md#readme) ([x](https://fa-tvars.appspot.com/var/L_COMMENTS))
 	* [`{L_FORUM_OPTIONS}`](../var/L_FORUM_OPTIONS.md#readme) ([x](https://fa-tvars.appspot.com/var/L_FORUM_OPTIONS))
 	* [`{L_MARK_TOPICS_READ}`](../var/L_MARK_TOPICS_READ.md#readme)
+	* [`{L_TOPIC_BY}`](../var/L_TOPIC_BY.md#readme) ([x](https://fa-tvars.appspot.com/var/L_TOPIC_BY))
 	* [`{L_TOPICS}`](../var/L_TOPICS.md#readme)
 	* [`{L_VIEWS}`](../var/L_VIEWS.md#readme)
 	* [`{PAGINATION}`](../var/PAGINATION.md#readme)
@@ -77,7 +78,6 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.L_SELECT}`](../var/topics_blog_box.row.L_SELECT.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_blog_box.row.L_SELECT))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.L_TITLE}`](../var/topics_blog_box.row.L_TITLE.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_blog_box.row.L_TITLE))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.L_TOPIC_FOLDER_ALT}`](../var/topics_blog_box.row.L_TOPIC_FOLDER_ALT.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_blog_box.row.L_TOPIC_FOLDER_ALT))
-	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.LAST_POST_TIME}`](../var/topics_blog_box.row.LAST_POST_TIME.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_blog_box.row.LAST_POST_TIME))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.NEWEST_POST_IMG}`](../var/topics_blog_box.row.NEWEST_POST_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_blog_box.row.NEWEST_POST_IMG))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN no_topics -->`](../var/topics_blog_box.row.no_topics.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_blog_box.row.no_topics))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END no_topics -->`](../var/topics_blog_box.row.no_topics.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_blog_box.row.no_topics))
@@ -126,6 +126,7 @@
 ### Positions des variables
 
 * __[`{L_COMMENTS}`](../var/L_COMMENTS.md#readme)__ __:__ ligne [`21`](../src/awesomebb/topics_blog_box.tpl#L21)
+* __[`{L_TOPIC_BY}`](../var/L_TOPIC_BY.md#readme)__ __:__ ligne [`18`](../src/awesomebb/topics_blog_box.tpl#L18)
 * __[`{L_VIEWS}`](../var/L_VIEWS.md#readme)__ __:__ ligne [`23`](../src/awesomebb/topics_blog_box.tpl#L23)
 * __[`<!-- BEGIN switch_image_resize -->`](../var/switch_image_resize.md#readme)__ __:__ ligne [`41`](../src/awesomebb/topics_blog_box.tpl#L41)
 * __[`<!-- END switch_image_resize -->`](../var/switch_image_resize.md#readme)__ __:__ ligne [`47`](../src/awesomebb/topics_blog_box.tpl#L47)
@@ -136,7 +137,6 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN row -->`](../var/topics_blog_box.row.md#readme)__ __:__ ligne [`2`](../src/awesomebb/topics_blog_box.tpl#L2)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END row -->`](../var/topics_blog_box.row.md#readme)__ __:__ ligne [`38`](../src/awesomebb/topics_blog_box.tpl#L38)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.FIRST_POST_TEXT}`](../var/topics_blog_box.row.FIRST_POST_TEXT.md#readme)__ __:__ ligne [`15`](../src/awesomebb/topics_blog_box.tpl#L15)
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.LAST_POST_TIME}`](../var/topics_blog_box.row.LAST_POST_TIME.md#readme)__ __:__ ligne [`18`](../src/awesomebb/topics_blog_box.tpl#L18)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.L_NO_TOPICS}`](../var/topics_blog_box.row.L_NO_TOPICS.md#readme)__ __:__ ligne [`31`](../src/awesomebb/topics_blog_box.tpl#L31)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.REPLIES}`](../var/topics_blog_box.row.REPLIES.md#readme)__ __:__ ligne [`21`](../src/awesomebb/topics_blog_box.tpl#L21)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.ROW_ALT_CLASS}`](../var/topics_blog_box.row.ROW_ALT_CLASS.md#readme)__ __:__ ligne [`7`](../src/awesomebb/topics_blog_box.tpl#L7)

@@ -25,7 +25,7 @@ Boucle s'affichant si l'option de redimensionnement des images est activée dans
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`74`](../src/awesomebb/privmsgs_read_body.tpl#L74)[`<->`](../src/awesomebb/privmsgs_read_body.tpl#L74-L80)[`80`](../src/awesomebb/privmsgs_read_body.tpl#L80)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`32`](../src/awesomebb/search_results_posts.tpl#L32)[`<->`](../src/awesomebb/search_results_posts.tpl#L32-L44)[`44`](../src/awesomebb/search_results_posts.tpl#L44)
 * __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`41`](../src/awesomebb/topics_blog_box.tpl#L41)[`<->`](../src/awesomebb/topics_blog_box.tpl#L41-L47)[`47`](../src/awesomebb/topics_blog_box.tpl#L47)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`419`](../src/awesomebb/viewcomments_body.tpl#L419)[`<->`](../src/awesomebb/viewcomments_body.tpl#L419-L425)[`425`](../src/awesomebb/viewcomments_body.tpl#L425)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`421`](../src/awesomebb/viewcomments_body.tpl#L421)[`<->`](../src/awesomebb/viewcomments_body.tpl#L421-L427)[`427`](../src/awesomebb/viewcomments_body.tpl#L427)
 
 ### Version phpBB3
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`60`](../src/prosilver/mod_news.tpl#L60)[`<->`](../src/prosilver/mod_news.tpl#L60-L66)[`66`](../src/prosilver/mod_news.tpl#L66)
@@ -33,7 +33,7 @@ Boucle s'affichant si l'option de redimensionnement des images est activée dans
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`78`](../src/prosilver/privmsgs_read_body.tpl#L78)[`<->`](../src/prosilver/privmsgs_read_body.tpl#L78-L84)[`84`](../src/prosilver/privmsgs_read_body.tpl#L84)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`32`](../src/prosilver/search_results_posts.tpl#L32)[`<->`](../src/prosilver/search_results_posts.tpl#L32-L38)[`38`](../src/prosilver/search_results_posts.tpl#L38)
 * __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`147`](../src/prosilver/topics_blog_box.tpl#L147)[`<->`](../src/prosilver/topics_blog_box.tpl#L147-L153)[`153`](../src/prosilver/topics_blog_box.tpl#L153)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`516`](../src/prosilver/viewcomments_body.tpl#L516)[`<->`](../src/prosilver/viewcomments_body.tpl#L516-L522)[`522`](../src/prosilver/viewcomments_body.tpl#L522)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`518`](../src/prosilver/viewcomments_body.tpl#L518)[`<->`](../src/prosilver/viewcomments_body.tpl#L518-L524)[`524`](../src/prosilver/viewcomments_body.tpl#L524)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`373`](../src/prosilver/viewtopic_body.tpl#L373)[`<->`](../src/prosilver/viewtopic_body.tpl#L373-L379)[`379`](../src/prosilver/viewtopic_body.tpl#L379)
 
 ### Version phpBB2
@@ -42,7 +42,7 @@ Boucle s'affichant si l'option de redimensionnement des images est activée dans
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`114`](../src/subsilver/privmsgs_read_body.tpl#L114)[`<->`](../src/subsilver/privmsgs_read_body.tpl#L114-L120)[`120`](../src/subsilver/privmsgs_read_body.tpl#L120)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`70`](../src/subsilver/search_results_posts.tpl#L70)[`<->`](../src/subsilver/search_results_posts.tpl#L70-L76)[`76`](../src/subsilver/search_results_posts.tpl#L76)
 * __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`101`](../src/subsilver/topics_blog_box.tpl#L101)[`<->`](../src/subsilver/topics_blog_box.tpl#L101-L107)[`107`](../src/subsilver/topics_blog_box.tpl#L107)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`643`](../src/subsilver/viewcomments_body.tpl#L643)[`<->`](../src/subsilver/viewcomments_body.tpl#L643-L649)[`649`](../src/subsilver/viewcomments_body.tpl#L649)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`645`](../src/subsilver/viewcomments_body.tpl#L645)[`<->`](../src/subsilver/viewcomments_body.tpl#L645-L651)[`651`](../src/subsilver/viewcomments_body.tpl#L651)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`481`](../src/subsilver/viewtopic_body.tpl#L481)[`<->`](../src/subsilver/viewtopic_body.tpl#L481-L487)[`487`](../src/subsilver/viewtopic_body.tpl#L487)
 
 ### Version ModernBB
@@ -51,7 +51,7 @@ Boucle s'affichant si l'option de redimensionnement des images est activée dans
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`75`](../src/modernbb/privmsgs_read_body.tpl#L75)[`<->`](../src/modernbb/privmsgs_read_body.tpl#L75-L81)[`81`](../src/modernbb/privmsgs_read_body.tpl#L81)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`25`](../src/modernbb/search_results_posts.tpl#L25)[`<->`](../src/modernbb/search_results_posts.tpl#L25-L31)[`31`](../src/modernbb/search_results_posts.tpl#L31)
 * __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`140`](../src/modernbb/topics_blog_box.tpl#L140)[`<->`](../src/modernbb/topics_blog_box.tpl#L140-L146)[`146`](../src/modernbb/topics_blog_box.tpl#L146)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`531`](../src/modernbb/viewcomments_body.tpl#L531)[`<->`](../src/modernbb/viewcomments_body.tpl#L531-L537)[`537`](../src/modernbb/viewcomments_body.tpl#L537)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`533`](../src/modernbb/viewcomments_body.tpl#L533)[`<->`](../src/modernbb/viewcomments_body.tpl#L533-L539)[`539`](../src/modernbb/viewcomments_body.tpl#L539)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`387`](../src/modernbb/viewtopic_body.tpl#L387)[`<->`](../src/modernbb/viewtopic_body.tpl#L387-L393)[`393`](../src/modernbb/viewtopic_body.tpl#L393)
 
 ### Version PunBB
@@ -60,7 +60,7 @@ Boucle s'affichant si l'option de redimensionnement des images est activée dans
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`108`](../src/punbb/privmsgs_read_body.tpl#L108)[`<->`](../src/punbb/privmsgs_read_body.tpl#L108-L114)[`114`](../src/punbb/privmsgs_read_body.tpl#L114)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`82`](../src/punbb/search_results_posts.tpl#L82)[`<->`](../src/punbb/search_results_posts.tpl#L82-L88)[`88`](../src/punbb/search_results_posts.tpl#L88)
 * __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`122`](../src/punbb/topics_blog_box.tpl#L122)[`<->`](../src/punbb/topics_blog_box.tpl#L122-L128)[`128`](../src/punbb/topics_blog_box.tpl#L128)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`492`](../src/punbb/viewcomments_body.tpl#L492)[`<->`](../src/punbb/viewcomments_body.tpl#L492-L498)[`498`](../src/punbb/viewcomments_body.tpl#L498)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`494`](../src/punbb/viewcomments_body.tpl#L494)[`<->`](../src/punbb/viewcomments_body.tpl#L494-L500)[`500`](../src/punbb/viewcomments_body.tpl#L500)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`361`](../src/punbb/viewtopic_body.tpl#L361)[`<->`](../src/punbb/viewtopic_body.tpl#L361-L367)[`367`](../src/punbb/viewtopic_body.tpl#L367)
 
 ### Version Invision
@@ -69,6 +69,6 @@ Boucle s'affichant si l'option de redimensionnement des images est activée dans
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`102`](../src/invision/privmsgs_read_body.tpl#L102)[`<->`](../src/invision/privmsgs_read_body.tpl#L102-L108)[`108`](../src/invision/privmsgs_read_body.tpl#L108)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`59`](../src/invision/search_results_posts.tpl#L59)[`<->`](../src/invision/search_results_posts.tpl#L59-L65)[`65`](../src/invision/search_results_posts.tpl#L65)
 * __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`180`](../src/invision/topics_blog_box.tpl#L180)[`<->`](../src/invision/topics_blog_box.tpl#L180-L186)[`186`](../src/invision/topics_blog_box.tpl#L186)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`531`](../src/invision/viewcomments_body.tpl#L531)[`<->`](../src/invision/viewcomments_body.tpl#L531-L537)[`537`](../src/invision/viewcomments_body.tpl#L537)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`533`](../src/invision/viewcomments_body.tpl#L533)[`<->`](../src/invision/viewcomments_body.tpl#L533-L539)[`539`](../src/invision/viewcomments_body.tpl#L539)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`393`](../src/invision/viewtopic_body.tpl#L393)[`<->`](../src/invision/viewtopic_body.tpl#L393-L399)[`399`](../src/invision/viewtopic_body.tpl#L399)
 

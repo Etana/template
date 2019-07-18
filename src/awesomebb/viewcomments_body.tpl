@@ -71,6 +71,7 @@
         <!-- END switch_fb_likebtn -->
 
         <a class="addthis_button" href="#">{L_SHARE}</a>
+        <!-- BEGIN switch_plus_menu -->
         <script type="text/javascript">//<![CDATA[
             var url_favourite = '{U_FAVOURITE_JS_PLUS_MENU}';
             var url_newposts = '{U_NEWPOSTS_JS_PLUS_MENU}';
@@ -80,6 +81,7 @@
             insert_plus_menu_new('f{FORUM_ID}&amp;t={TOPIC_ID}','{JS_SESSION_ID}', {JS_AUTH_FAVOURITES});
             //]]>
         </script>
+        <!-- END switch_plus_menu -->
     </div>
 </div>
 <!-- BEGIN switch_isconnect -->

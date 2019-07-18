@@ -13,10 +13,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`46`](../src/prosilver/viewcomments_body.tpl#L46), [`468`](../src/prosilver/viewcomments_body.tpl#L468)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`46`](../src/prosilver/viewcomments_body.tpl#L46), [`470`](../src/prosilver/viewcomments_body.tpl#L470)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`49`](../src/prosilver/viewtopic_body.tpl#L49), [`326`](../src/prosilver/viewtopic_body.tpl#L326)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`104`](../src/punbb/viewcomments_body.tpl#L104), [`460`](../src/punbb/viewcomments_body.tpl#L460)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`106`](../src/punbb/viewcomments_body.tpl#L106), [`462`](../src/punbb/viewcomments_body.tpl#L462)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`105`](../src/punbb/viewtopic_body.tpl#L105), [`290`](../src/punbb/viewtopic_body.tpl#L290)
 

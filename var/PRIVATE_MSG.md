@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PRIVATE_MSG)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/PRIVATE_MSG)
+Affiche le nombre de messages privés reçus par l'utilisateur
 
 ## Utilisations dans les templates
 

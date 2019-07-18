@@ -68,7 +68,7 @@ Adresse url absolue vers "Voir les nouveaux messages depuis votre dernière visi
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`5`](../src/punbb/search_body.tpl#L5)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`5`](../src/punbb/search_results_posts.tpl#L5)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`4`](../src/punbb/search_results_topics.tpl#L4)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`56`](../src/punbb/viewcomments_body.tpl#L56)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`58`](../src/punbb/viewcomments_body.tpl#L58)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`16`](../src/punbb/viewforum_body.tpl#L16)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`14`](../src/punbb/viewonline_body.tpl#L14)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`57`](../src/punbb/viewtopic_body.tpl#L57)
